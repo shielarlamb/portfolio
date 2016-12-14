@@ -1,0 +1,208 @@
+html {
+	/* Needed to fix footer at bottom of browser */
+	position: relative;
+	min-height: 100%;
+}
+
+body {
+	/* Move down content because of fixed navbar at top */
+	padding-top: 50px;
+	/* Set margin bottom allow for footer height */
+	margin-bottom: 50px;
+	position: relative;
+	background-color: #BBE3F8;
+	background-image: url(images/grandcanyon.JPG);
+}
+
+.navbar .navbar-inverse .navbar-fixed-top {
+	color: #000000;
+}
+
+.navbar-inverse {
+	background-color: #055288;
+}
+
+.navbar-inverse .navbar-brand {
+	color: #FFFFFF;
+}
+
+.navbar-inverse li {
+	color: #000000
+}
+
+main {
+	background-color: #FFFFFF;
+	padding-bottom: 25px;
+	border-bottom-left-radius: 6px;
+	border-bottom-right-radius: 6px
+}
+
+main .row {
+	margin-bottom: 15px;
+}
+
+h2 {
+	color: #D4D300;
+}
+
+h3 {
+	text-align: left;
+	font-size: 20px;
+	font-weight: bold;
+	padding-top: 25px;
+	padding-bottom: 20px;
+}
+
+h4 {
+	font-family: Papyrus, Rockwell, sans-serif;
+	margin-top: 5px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	text-align: center;
+	font-weight: bold;
+}
+
+h4 a {
+	font-family: sans-serif;
+	font-size: 15px;
+	font-weight: 100;
+}
+
+h5 {
+	font-family: Papyrus, Rockwell, sans-serif;
+	margin-top: 20px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	text-align: right;
+	font-weight: bold;
+}
+
+h1 {
+	padding-top: 25px;
+}
+
+figcaption {
+	font-family: Papyrus, Rockwell, sans-serif;
+	margin-top: 5px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	text-align: center;
+	font-weight: bold;
+}
+
+.jumbotron {
+	margin-top: 15px;
+	padding: 30px;
+	color: #FFFFFF;
+	text-align: left;
+	background-image: url(images/background.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.jumbotron a:link {
+	text-decoration: none;
+	color: azure;
+}
+
+.jumbotron a:visited {
+	color: beige;
+}
+
+.jumbotron a:hover {
+	color: #FFFC0B;
+}
+
+#section1 {
+	color: #0673C0;
+	text-align: left;
+	padding-bottom: 25px;
+}
+
+#section2 {
+	border: none;
+	color: #0673C0;
+	text-align: center;
+	padding: 10px;
+}
+
+#section2 li {
+	list-style-type: none;
+	text-align: center;
+	font-size: 18px;
+	width: 100%;
+}
+
+#section2 li p {
+	font-style: italic;
+}
+
+#section3 {
+	border: none;
+	color: #0673C0;
+	text-align: center;
+	padding: 10px;
+}
+
+#section3 li {
+	list-style-type: none;
+	text-align: center;
+	font-size: 18px;
+}
+
+#section4 {
+	border: none;
+	color: #0673C0;
+	text-align: center;
+	display: inline;
+	padding: 10px;
+}
+
+#section4 li {
+	list-style-type: none;
+	text-align: left;
+	font-size: 18px;
+	padding-bottom: 5px;
+	padding-top: 5px;
+	width: 100%;
+}
+
+#section4 li p {
+	text-align: justify;
+	font-style: italic;
+	margin-right: 40px;
+}
+
+#section5 {
+	color: #0673C0;
+	align-content: center;
+	padding: 60px;
+}
+
+footer {
+	position: fixed;
+	bottom: 0;
+	height: 50px;
+	width: 100%;
+	background-color: #055288;
+	color: #FFFFFF;
+	text-align: center;
+	padding-bottom: 70px;
+}
+
+footer a {
+	color: #ffffff;
+}
+
+footer a:link {
+	text-decoration: none;
+	color: azure;
+}
+
+footer a:visited {
+	color: beige;
+}
+
+footer a:hover {
+	color: #FFFC0B;
+}
