@@ -55,8 +55,6 @@ h3 {
 
 h4 {
 	font-family: Papyrus, Rockwell, sans-serif;
-	margin-top: 5px;
-	padding-top: 5px;
 	padding-bottom: 5px;
 	text-align: center;
 	font-weight: bold;
@@ -120,10 +118,17 @@ figcaption {
 }
 
 #section2 {
-	border: none;
+	margin-top: 50px;
+
+	margin-left: 50px;
 	color: #0673C0;
 	text-align: center;
-	padding: 10px;
+	border-style: solid;
+	border-color: #0673C0;
+	width: 90%;
+	padding-left: 30px;
+	padding-right: 20px;
+
 }
 
 #section2 li {
@@ -136,41 +141,51 @@ figcaption {
 #section2 li p {
 	font-style: italic;
 }
+#section3  {
+	padding: 20px;
+	border-style: solid;
+	border-color: #0673C0;
+	margin-top: 50px;
 
-#section3 {
-	border: none;
+}
+
+#section3 h3{
 	color: #0673C0;
-	text-align: center;
+	text-align: left;
 	padding: 10px;
+	text-align: center;
 }
 
 #section3 li {
-	list-style-type: none;
-	text-align: center;
+	color: #0673C0;
+	text-align: left;
 	font-size: 18px;
 }
 
 #section4 {
+	margin-top: 50px;
 	border: none;
 	color: #0673C0;
 	text-align: center;
 	display: inline;
 	padding: 10px;
+	text-align: justify;
 }
 
 #section4 li {
 	list-style-type: none;
-	text-align: left;
-	font-size: 18px;
-	padding-bottom: 5px;
-	padding-top: 5px;
+	text-align: center;
+	font-size: 15px;
 	width: 100%;
+	padding-left: 10px;
+	padding-right: 10px;
 }
 
-#section4 li p {
+#section4 ul p {
 	text-align: justify;
 	font-style: italic;
 	margin-right: 40px;
+padding: 10px;
 }
 
 #section5 {
@@ -178,6 +193,10 @@ figcaption {
 	align-content: center;
 	padding: 60px;
 }
+#section6 {
+text-align: right;
+}
+
 
 footer {
 	position: fixed;

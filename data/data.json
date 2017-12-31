@@ -1,0 +1,76 @@
+{
+	"employment": [
+
+		{
+			"date": "June 16, 2014 - Present",
+			"company": "SAP/Concur Technologies Inc.",
+			"address": "10700 Prairie Lakes Dr. Eden Prairie, MN, 55344",
+			"position": "Client Support Analyst I – Government Americas",
+			"description": "I worked on government submitted cases regarding configuration request, travel issues, Concur government edition software issues, creating and submitting authorizations and vouchers as well as Cognos queries. I walk customer through in using the Concur as well as sending them follow-up email on the steps we just took for future reference. I am also taking calls and chat sessions from authorized contact as needed. We use Salesforce to document our calls and cases. I am also the mobile lead as well as one of the curators for our internal knowledgebase. I also provide assistance with my co-tier 2 and tier 1 for TMC fee questions and configuration inquiries.",
+
+			"accomplishment": "Applied for Client Support Representative but was hired as Client Support Analyst due to my exceptional experience and skills. Received a very pleasing commendation from the client on my 4th day on the floor. I was given Fast Track Growth and Catalyst for my potential assessment rating and exceptional performance for the past year 2016 review."
+
+		},
+		
+			{
+			"date": "September 5, 2012 – March 29, 2014",
+			"company": "Stream Global Services ",
+			"address": "Clark Special Economic Zone, Pampanga, Philippines",
+			"position": "Technical Support Professional I – Clear Internet Service",
+			"description": "I handled customers’ inquiries, complaints, billing questions and payment extension/service requests. Calm angry callers, locate resources for problem resolution and design best-option solutions for connectivity issues, speed issues and devices issues. We used Salesforce to document our calls.",
+
+			"accomplishment": "I was ranked 3rd for the 3rd Quarter of 2013 (out of 80 technical support professionals). Ranking was based on Customer Satisfaction Survey, Average Handling Time and First Call Resolution. I was commended by the client for having an outstanding call during live call calibration."
+
+		},
+			{
+			"date": "July 05, 2012 – September 3, 2012",
+			"company": "Cyber City Teleservices Ltd.",
+			"address": "Clark Special Economic Zone, Pampanga, Philippines",
+			"position": "Call Center Agent for Harbor Freight Tools",
+			"description": "Handled sales calls for 2 weeks and got transferred to the customer service department.  Handled billing queries, account, product replacements and repair orders.",
+				
+			"accomplishment": "I was moved to the Customer Service department after 2 weeks of good performance in sales."
+
+		},
+				{
+			"date": "November 16, 2009 – May 31, 2012 ",
+			"company": "Sutherland Global Services ",
+			"address": "Clark Special Economic Zone, Pampanga, Philippines",
+			"position": "Technical Support and Sales Rep for various accounts",
+			"description": ["I handled incoming calls from customers, responding to inquiries, resolving computer, devices, network, and printer connection problems. I also took incoming sales and customer service calls for FTD and sales calls for United Online. We use CRM to document our calls and cases. Account I have handled are  Microsoft Xbox", "Microsoft Zune", "United Online", "Florists Transworld Deliver (FTD Flowers all hours)",	"Mercury Technology Software for FTD"],
+
+			"accomplishment": "I became the lead go-to person for new representatives particularly with challenging issues. I was promoted as MS Xbox Technical Lead after four months of being on the floor."
+
+		},
+		{
+			"date": "February 9, 2009 – August 07, 2009",
+			"company": "Sutherland Global Services ",
+			"address": "Clark Special Economic Zone, Pampanga, Philippines",
+			"position": "Technical Support Representative for McAfee",
+			"description": "I handled incoming technical calls from customers, responding to viruses issues. I provided assistance on how to use and configure Mcafee to make sure that their computers are protected. We use CRM to document our calls.",
+
+			"accomplishment": "Received perfect score from QA evaluation on multiple occasions."
+
+		},
+{
+			"date": "January 21, 2008 – November 13, 2008",
+			"company": "Sutherland Global Services ",
+			"address": "Clark Special Economic Zone, Pampanga, Philippines",
+			"position": "Tier 2 – Senior Agent for Microsoft Zune",
+			"description": "I provided technical support to customers with computer, software, windows and devices issues. I handled consult and escalation calls from Tier 1 reps with more challenging computer, software and device problems.  We document our calls and cases using CRM.",
+
+			"accomplishment": "I was promoted to Tier 2 (Level 2) after 2 months of handling Tier 1 (Level 1) calls."
+
+		},
+{
+			"date": "June 14, 2006 - December 21, 2007",
+			"company": "Cyber City Teleservices Ltd.",
+			"address": "Clark Special Economic Zone, Pampanga, Philippines",
+			"position": "Call Center Agent for Mcleodusa Telecommunication",
+			"description": "I handled incoming calls from customer with billing issues and account issues. I provided basic telephone troubleshooting and submit trouble ticket for technician dispatch.",
+
+			"accomplishment": "Received multiple Excellent Performance certificates for an outstanding QA evaluation."
+
+		}
+	]
+}
