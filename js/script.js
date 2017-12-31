@@ -4,6 +4,8 @@ $(() => {
 
 	$.getJSON("data/data.json", (data) => {
 		loadEmploymentData(data.employment);
+		loadSkillsData(data.skills);
+		loadEducationData(data.education);
 		console.log(data.employment);
 
 
@@ -15,8 +17,22 @@ $(() => {
 			});
 		};
 
+			function loadSkillsData() {
 
+			data.skills.forEach((skills) => {
+				$("#section3").append(`<ul><li>${skills.name}</li></ul>`);
 
+			});
+		};
+
+		function loadEducationData() {
+
+			data.education.forEach((education) => {
+				$("#section2").append(`<ul><li><strong>${education.name}</strong></li><li>${education.school}</li><li>${education.date}</li></ul>`);
+
+			});
+		};
+		
 	});
 
 
