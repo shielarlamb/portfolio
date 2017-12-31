@@ -118,16 +118,12 @@ figcaption {
 }
 
 #section2 {
-	margin-top: 50px;
-
-	margin-left: 50px;
-	color: #0673C0;
-	text-align: center;
+color: #0673C0;
+	padding: 20px;
 	border-style: solid;
 	border-color: #0673C0;
-	width: 90%;
-	padding-left: 30px;
-	padding-right: 20px;
+	margin-top: 50px;
+
 
 }
 
