@@ -208,17 +208,6 @@
 		},
 
 		{
-			"name": "PROGRAMMABLE KEYS",
-			"school": "Travelport.com",
-			"date": "December 8, 2015"
-		},
-
-		{
-			"name": "US: Apollo Ticket Exchanges - Beyond the Basics",
-			"school": "Travelport.com",
-			"date": "November 18, 2015"
-		},
-		{
 			"name": "Apollo and Worldspan GDS Training",
 			"school": "Travelport.com",
 			"date": "2015"
@@ -249,6 +238,11 @@
 			"name": "Let's Talk Change - Learning Agility: Innovation and Risk",
 			"school": "Concur University",
 			"date": "August 13, 2015"
+		},
+		{
+			"name": "First Time Manager: Understanding a Manager's Role",
+			"school": "Concur University",
+			"date": "August 29, 2014"
 		}
 
 	]
