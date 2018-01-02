@@ -12,7 +12,6 @@ body {
 	position: relative;
 	background-color: #BBE3F8;
 	background-image: url(images/grandcanyon.JPG);
-	
 }
 
 .navbar .navbar-inverse .navbar-fixed-top {
@@ -32,7 +31,7 @@ body {
 }
 
 main {
-	background-color:floralwhite;
+	background-color: floralwhite;
 	padding-bottom: 25px;
 	border-bottom-left-radius: 6px;
 	border-bottom-right-radius: 6px
@@ -123,8 +122,7 @@ figcaption {
 	padding: 20px;
 	border-style: solid;
 	border-color: #0673C0;
-	background-color:#FFFFFF;
-
+	background-color: #FFFFFF;
 }
 
 #section2 li {
@@ -133,6 +131,7 @@ figcaption {
 	font-size: 18px;
 	width: 100%;
 }
+
 #section2 h3 {
 	list-style-type: none;
 	text-align: center;
@@ -143,17 +142,16 @@ figcaption {
 #section2 li p {
 	font-style: italic;
 }
-#section3  {
+
+#section3 {
 	padding: 20px;
 	border-style: solid;
 	border-color: #0673C0;
 	margin-top: 50px;
-	background-color:#FFFFFF;
-	
-
+	background-color: #FFFFFF;
 }
 
-#section3 h3{
+#section3 h3 {
 	color: #0673C0;
 	text-align: left;
 	padding: 10px;
@@ -164,7 +162,6 @@ figcaption {
 	color: #0673C0;
 	text-align: left;
 	font-size: 15px;
-	
 }
 
 #section4 {
@@ -190,7 +187,7 @@ figcaption {
 	text-align: justify;
 	font-style: italic;
 	margin-right: 40px;
-padding: 10px;
+	padding: 10px;
 }
 
 #section5 {
@@ -198,10 +195,36 @@ padding: 10px;
 	align-content: center;
 	padding: 60px;
 }
+
 #section6 {
-text-align: right;
+	text-align: right;
+}
+#section7 {
+	padding: 20px;
+	border-style: solid;
+	border-color: #0673C0;
+	margin-top: 50px;
+	background-color: #FFFFFF;
 }
 
+#section7 h3 {
+	color: #0673C0;
+	text-align: left;
+	padding: 10px;
+	text-align: center;
+}
+
+#section7 li {
+	color: #0673C0;
+	text-align: left;
+	font-size: 15px;
+}
+
+button {
+	text-align: center;
+	align-content: r;
+	
+}
 
 footer {
 	position: fixed;

@@ -118,16 +118,138 @@
 
 	],
 	"education": [
-		{"name":"A.A.S in .Net Programming",
-		"school": "Hennepin Technical College",
-		"date": "2016-Present"},
-	
-			{"name":"Bachelors in Elementary Education",
-		"school": "Concepcion Holy Cross College",
-		"date": "2002-2006"},
-				{"name":"Apollo and Worldspan GDS Training",
-		"school": "Concur Technologies",
-		"date": "2015-2016"}
-		
+		{
+			"name": "A.A.S in .Net Programming",
+			"school": "Hennepin Technical College",
+			"date": "2016-Present"
+		},
+
+		{
+			"name": "Bachelors in Elementary Education",
+			"school": "Concepcion Holy Cross College",
+			"date": "2002-2006"
+		}
+
+	],
+	"training": [
+		{
+			"name": "Emotional Intelligence: How to Maximize Your Business Potential",
+			"school": "SAP Success Map Learning",
+			"date": "July 18, 2017"
+		},
+		{
+			"name": "Mastering the Elevator Pitch for Greater Impact in Your Daily Work",
+			"school": "SAP Success Map Learning",
+			"date": "June 22, 2017"
+		},
+		{
+			"name": "Present Complex Information",
+			"school": "SAP Success Map Learning",
+			"date": "June 22, 2017"
+		},
+		{
+			"name": "How to Write Effective Business Emails to Get Results",
+			"school": "SAP Success Map Learning",
+			"date": "June 21, 2017"
+		},
+		{
+			"name": "The Secrets to Leading with Assertiveness",
+			"school": "SAP Success Map Learning",
+			"date": "June 20, 2017"
+		},
+		{
+			"name": "Winning Strategies for Expanding Your Personal Network",
+			"school": "SAP Success Map Learning",
+			"date": "June 16, 2017"
+		},
+		{
+			"name": "Presenting with Impact",
+			"school": "SAP Success Map Learning",
+			"date": "June 15, 2017"
+		},
+		{
+			"name": "Executive Presence Overview",
+			"school": "SAP Success Map Learning",
+			"date": "June 13, 2017"
+		},
+		{
+			"name": "Cloud MindsetLeading Edge Technologies",
+			"school": "SAP Success Map Learning",
+			"date": "June 7, 2017"
+		},
+		{
+			"name": "Mastering Storytelling to Inspire Action in Business Opportunities",
+			"school": "SAP Success Map Learning",
+			"date": "June 5, 2017"
+		},
+
+
+		{
+			"name": "Caliper Assessment & Coaching Process",
+			"school": "SAP Success Map Learning",
+			"date": "August 2016"
+		},
+
+
+		{
+			"name": "MBTI: Communication and Leadership",
+			"school": "SAP Success Map Learning",
+			"date": "July 2016"
+		},
+		{
+			"name": "MBTI: Stress and Conflict",
+			"school": "SAP Success Map Learning",
+			"date": "July 2016"
+		},
+		{
+			"name": "Know Yourself:Introduction to MBTI",
+			"school": "SAP Success Map Learning",
+			"date": "June 2016"
+		},
+
+		{
+			"name": "PROGRAMMABLE KEYS",
+			"school": "Travelport.com",
+			"date": "December 8, 2015"
+		},
+
+		{
+			"name": "US: Apollo Ticket Exchanges - Beyond the Basics",
+			"school": "Travelport.com",
+			"date": "November 18, 2015"
+		},
+		{
+			"name": "Apollo and Worldspan GDS Training",
+			"school": "Travelport.com",
+			"date": "2015"
+		},
+		{
+			"name": "Developing Inclusion",
+			"school": "Concur University",
+			"date": "September 22, 2015"
+		},
+
+		{
+			"name": "Developing Generational Engagement",
+			"school": "Concur University",
+			"date": "September 16, 2015"
+		},
+		{
+			"name": "Let’s Talk Change - Learning Agility: Performance and Reflection",
+			"school": "Concur University",
+			"date": "September 9, 2015"
+		},
+		{
+			"name": "NA: Interpreting PNR History",
+			"school": "Travelport.com",
+			"date": "August 25, 2015"
+		},
+
+		{
+			"name": "Let's Talk Change - Learning Agility: Innovation and Risk",
+			"school": "Concur University",
+			"date": "August 13, 2015"
+		}
+
 	]
 }
