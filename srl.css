@@ -14,7 +14,7 @@ body {
 	background-image: url(images/grandcanyon.JPG);
 }
 
-.navbar .navbar-inverse .navbar-fixed-top {
+.navbar-light .navbar .navbar-inverse .navbar-fixed-top {
 	color: #000000;
 }
 
@@ -201,10 +201,9 @@ figcaption {
 }
 #section7 {
 	padding: 20px;
-	border-style: solid;
-	border-color: #0673C0;
+	
 	margin-top: 50px;
-	background-color: #FFFFFF;
+	
 }
 
 #section7 h3 {
@@ -212,6 +211,7 @@ figcaption {
 	text-align: left;
 	padding: 10px;
 	text-align: center;
+	
 }
 
 #section7 li {

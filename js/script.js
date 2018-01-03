@@ -61,13 +61,19 @@ $(() => {
 				$("#displayButtonTraining").hide();
 			});
 
-	$("#hideButtonTraining").on("click", function () {
+		$("#hideButtonTraining").on("click", function () {
 				$(this).next().toggle();
 				$("#ulTraining").toggle();
 				$("#hideButtonTraining").hide();
 				$("#displayButtonTraining").show();
 			});
-		};
+			
+				$("#tabCollapse").on("click", function () {
+				$("#ulTraining").hide();
+				$("#hideButtonTraining").hide();
+				$("#displayButtonTraining").show();
+			});
+			};
 
 	});
 
