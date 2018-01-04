@@ -161,7 +161,7 @@ figcaption {
 	font-size: 15px;
 }
 
-#WorkHistory {
+#workhistory {
 	margin-top: 50px;
 	border: none;
 	color: #0673C0;
@@ -171,7 +171,7 @@ figcaption {
 	text-align: justify;
 }
 
-#WorkHistory li {
+#workhistory li {
 	list-style-type: none;
 	text-align: center;
 	font-size: 15px;
@@ -180,7 +180,7 @@ figcaption {
 	padding-right: 10px;
 }
 
-#WorkHistory ul p {
+#workhistory ul p {
 	text-align: justify;
 	font-style: italic;
 	margin-right: 40px;
