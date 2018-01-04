@@ -22,7 +22,7 @@ $(() => {
 		function loadSkillsData() {
 
 			data.skills.forEach((skills) => {
-				$("#keystrengthsandskills").append(`<ul><li>${skills.name}</li></ul>`);
+				$("#key-strengths-and-skills").append(`<ul><li>${skills.name}</li></ul>`);
 
 			});
 		};

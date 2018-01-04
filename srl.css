@@ -140,7 +140,7 @@ figcaption {
 }
 
 
-#keystrengthsandskills {
+#key-strengths-and-skills {
 	padding: 20px;
 	border-style: solid;
 	border-color: #0673C0;
@@ -148,20 +148,20 @@ figcaption {
 	background-color: #FFFFFF;
 }
 
-#keystrengthsandskills h3 {
+#key-strengths-and-skills h3 {
 	color: #0673C0;
 	text-align: left;
 	padding: 10px;
 	text-align: center;
 }
 
-#keystrengthsandskills li {
+#key-strengths-and-skills li {
 	color: #0673C0;
 	text-align: left;
 	font-size: 15px;
 }
 
-#workhistory {
+#work-history {
 	margin-top: 50px;
 	border: none;
 	color: #0673C0;
@@ -171,7 +171,7 @@ figcaption {
 	text-align: justify;
 }
 
-#workhistory li {
+#work-history li {
 	list-style-type: none;
 	text-align: center;
 	font-size: 15px;
@@ -180,7 +180,7 @@ figcaption {
 	padding-right: 10px;
 }
 
-#workhistory ul p {
+#work-history ul p {
 	text-align: justify;
 	font-style: italic;
 	margin-right: 40px;
