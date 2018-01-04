@@ -117,7 +117,7 @@ figcaption {
 	padding-bottom: 25px;
 }
 
-#section2 {
+#education {
 	color: #0673C0;
 	padding: 20px;
 	border-style: solid;
@@ -125,25 +125,22 @@ figcaption {
 	background-color: #FFFFFF;
 }
 
-#section2 li {
+#education li {
 	list-style-type: none;
 	text-align: center;
 	font-size: 18px;
 	width: 100%;
 }
 
-#section2 h3 {
+#education h3 {
 	list-style-type: none;
 	text-align: center;
 	font-size: 18px;
 	width: 100%;
 }
 
-#section2 li p {
-	font-style: italic;
-}
 
-#section3 {
+#keystrengthsandskills {
 	padding: 20px;
 	border-style: solid;
 	border-color: #0673C0;
@@ -151,20 +148,20 @@ figcaption {
 	background-color: #FFFFFF;
 }
 
-#section3 h3 {
+#keystrengthsandskills h3 {
 	color: #0673C0;
 	text-align: left;
 	padding: 10px;
 	text-align: center;
 }
 
-#section3 li {
+#keystrengthsandskills li {
 	color: #0673C0;
 	text-align: left;
 	font-size: 15px;
 }
 
-#section4 {
+#WorkHistory {
 	margin-top: 50px;
 	border: none;
 	color: #0673C0;
@@ -174,7 +171,7 @@ figcaption {
 	text-align: justify;
 }
 
-#section4 li {
+#WorkHistory li {
 	list-style-type: none;
 	text-align: center;
 	font-size: 15px;
@@ -183,14 +180,14 @@ figcaption {
 	padding-right: 10px;
 }
 
-#section4 ul p {
+#WorkHistory ul p {
 	text-align: justify;
 	font-style: italic;
 	margin-right: 40px;
 	padding: 10px;
 }
 
-#section5 {
+#projects {
 	color: #0673C0;
 	align-content: center;
 	padding: 60px;
@@ -199,14 +196,14 @@ figcaption {
 #section6 {
 	text-align: right;
 }
-#section7 {
+#training {
 	padding: 20px;
 	
 	margin-top: 50px;
 	
 }
 
-#section7 h3 {
+#training h3 {
 	color: #0673C0;
 	text-align: left;
 	padding: 10px;
@@ -214,7 +211,7 @@ figcaption {
 	
 }
 
-#section7 li {
+#training li {
 	color: #0673C0;
 	text-align: left;
 	font-size: 15px;
