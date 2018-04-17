@@ -113,9 +113,7 @@
 		{
 			"name": "HTML5 and CSS"
 		},
-		{
-			"name": "Python Programming Language."
-		},
+		
 		{
 			"name": "C# Language"
 		},
@@ -124,6 +122,9 @@
 		},
 		{
 			"name": "JavaScript (JQUERY/JSON)"
+		},
+        {
+			"name": "Client/Server Computing"
 		}
 
 	],
