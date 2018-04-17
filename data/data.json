@@ -1,9 +1,19 @@
 {
 	"employment": [
 
+        	{
+			"date": "March 16, 2018 - Present",
+			"company": "SAP Concur Technologies Inc.",
+			"address": "10700 Prairie Lakes Dr. Eden Prairie, MN, 55344",
+			"position": "SAP Concur Configuration Consultant",
+			"description": "I work with SAP Concur existing clients in updating their SAP Concur configuration. Clients submit cases through Salesforce which are then assigned to us. Clients can still be in the implementation stage or have already transitioned and already using Concur. Configuration update request includes but not limited to, enabling and disabling their expense types and other features. Updating their workflow, fields, and forms. Depending on the amount of time spent, projects can be billable to clients.",
+
+			"accomplishment": "I was considered as Star Performer during training."
+
+		},
 		{
-			"date": "June 16, 2014 - Present",
-			"company": "SAP/Concur Technologies Inc.",
+			"date": "June 16, 2014 - March 15, 2018",
+			"company": "SAP Concur Technologies Inc.",
 			"address": "10700 Prairie Lakes Dr. Eden Prairie, MN, 55344",
 			"position": "Client Support Analyst I – Government Americas",
 			"description": "I worked on government submitted cases regarding configuration request, travel issues, Concur government edition software issues, creating and submitting authorizations and vouchers as well as Cognos queries. I walk the customer through in using the Concur as well as sending them follow-up email on the steps we just took for future reference. I am also taking calls and chat sessions from authorized contact as needed. We use Salesforce to document our calls and cases. I am also the mobile lead as well as one of the curators for our internal knowledge base. I also provide assistance with my co-tier 2 and tier 1 for TMC fee questions and configuration inquiries.",
