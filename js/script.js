@@ -14,11 +14,11 @@ $(() => {
 		function loadEmploymentData() {
 
 			data.employment.forEach((jobs) => {
-				$("#employment").append(`<ul><li><strong>${jobs.position}</strong></li><li>${jobs.company}</li><li>${jobs.address}</li><li>${jobs.date}</li><p>${jobs.description}</p><p><strong>Key Accomplishment/s: </strong>${jobs.accomplishment}</p></ul>`);
+				$("#employment").append(`<ul><li><strong>${jobs.position}</strong></li><li>${jobs.company}</li><li>${jobs.address}</li><li>${jobs.date}</p><p>${jobs.description}</p><p id="accomp"><strong>Key Accomplishment/s: </strong>${jobs.accomplishment}</p></ul>`);
 
 			});
 		};
-
+		
 		function loadSkillsData() {
 
 			data.skills.forEach((skills) => {

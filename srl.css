@@ -184,7 +184,7 @@ figcaption {
 	text-align: justify;
 	font-style: italic;
 	margin-right: 40px;
-	padding: 10px;
+	padding: 5px;
 }
 
 #projects {
@@ -218,7 +218,11 @@ figcaption {
 	
 }
 
-
+#accomp {
+    margin-top: 5px;
+    margin-bottom: 50px;
+    border-bottom: solid;
+}
 
 footer {
 	position: fixed;
