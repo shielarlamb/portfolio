@@ -12,11 +12,15 @@ $(() => {
 
 
 		function loadEmploymentData() {
-
+            let $article = $("<article>");
+            
 			data.employment.forEach((jobs) => {
 				$("#employment").append(`<ul><li><strong>${jobs.position}</strong></li><li>${jobs.company}</li><li>${jobs.address}</li><li>${jobs.date}</p><p>${jobs.description}</p><p id="accomp"><strong>Key Accomplishment/s: </strong>${jobs.accomplishment}</p></ul>`);
-
+                
+              //  loadAccomplishments(accompArray, $ulAccomp);
+               
 			});
+        
 		};
 		
 		function loadSkillsData() {
@@ -26,7 +30,29 @@ $(() => {
 
 			});
 		};
+        
+      
 
+      /*  function loadAccomplishments(accompArray, $ulAccomp) {
+
+			data.employment.accomplishment.forEach((key) => {
+                
+                let $ulAccomp = $("<ul>");
+                $("#employment").append($ulAccomp);
+				
+                loadKeyAccomplishments(keyArray, $ulAccomp);
+                console.log(accompArray);
+
+			});
+		};
+          function loadKeyAccomplishments(keyArray, $ulAccomp) {
+
+			let $liKey = $("<li>");
+              $ulAccomp.append($liKey);
+              $liKey.append(`<li>${accomplishment.key}</li>`);
+              console.log($liKey);
+			
+		};*/
 		function loadEducationData() {
 
 			data.education.forEach((education) => {
