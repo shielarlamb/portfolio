@@ -11,7 +11,7 @@
             "accomplishment": [
 
                 {
-                    "key": "Star Performer during training."
+                    "key": "Star performer during training."
                 }
             ]
 
@@ -21,7 +21,7 @@
             "company": "SAP Concur Technologies Inc.",
             "address": "10700 Prairie Lakes Dr. Eden Prairie, MN, 55344",
             "position": "Client Support Analyst I – Government Americas",
-            "description": "I worked on government submitted cases regarding configuration request, travel issues, Concur government edition software issues, creating and submitting authorizations and vouchers as well as Cognos queries. I walk the customer through in using the Concur as well as sending them follow-up email on the steps we just took for future reference. I am also taking calls and chat sessions from authorized contact as needed. We use Salesforce to document our calls and cases. I am also the mobile lead as well as one of the curators for our internal knowledge base. I also provide assistance with my co-tier 2 and tier 1 for TMC fee questions and configuration inquiries.",
+            "description": "I worked on government submitted cases regarding configuration request, travel issues, Concur government edition software issues, creating and submitting authorizations and vouchers as well as Cognos queries. I walked the customer through in using the Concur as well as sending them follow-up email on the steps we just took for future reference. I also took calls and chat sessions from authorized contacts as needed. We used Salesforce to document our calls and cases. I was the ConcurGOV mobile lead as well as one of the curators for our internal knowledge base. I also provide assistance with my co-tier 2 and tier 1 for TMC fee questions and configuration inquiries.",
 
 
             "accomplishment": [
@@ -61,7 +61,7 @@
 
             "accomplishment": [
                 {
-                    "key": "I ranked 3rd in the 3rd Quarter of 2013 (out of 80 technical support professionals). The ranking was based on Customer Satisfaction Survey, Average Handling Time and First Call Resolution."
+                    "key": "I ranked 3rd in the 3rd Quarter of 2013 (out of 80 Technical Support Professionals). The ranking was based on Customer Satisfaction Survey, Average Handling Time and First Call Resolution."
                 },
                 {
                     "key": "Commended by the client for having an outstanding call during live call calibration."
@@ -209,6 +209,12 @@
 
 	],
     "training": [
+
+        {
+            "name": "Introduction to Project Management",
+            "school": "SAP Success Map Learning",
+            "date": "February 2, 2018"
+		},
         {
             "name": "Emotional Intelligence: How to Maximize Your Business Potential",
             "school": "SAP Success Map Learning",
