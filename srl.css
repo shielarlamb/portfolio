@@ -198,7 +198,6 @@ figcaption {
 }
 #training {
 	padding: 20px;
-	
 	margin-top: 50px;
 	
 }
@@ -218,10 +217,10 @@ figcaption {
 	
 }
 
-#accomp {
-    margin-top: 5px;
-    margin-bottom: 50px;
-    border-bottom: solid;
+#key-accomp {
+   text-align: left;
+   list-style: disc;
+    padding: 20px;
 }
 
 footer {

@@ -13,11 +13,11 @@ $(() => {
 
 		function loadEmploymentData() {
             let $article = $("<article>");
-            
+            $("#employment").append($article);
 			data.employment.forEach((jobs) => {
-				$("#employment").append(`<ul><li><strong>${jobs.position}</strong></li><li>${jobs.company}</li><li>${jobs.address}</li><li>${jobs.date}</p><p>${jobs.description}</p><p id="accomp"><strong>Key Accomplishment/s: </strong>${jobs.accomplishment}</p></ul>`);
+				$article.append(`<ul><li style="padding-top: 20px;"><strong>${jobs.position}</strong></li><li>${jobs.company}</li><li>${jobs.address}</li><li>${jobs.date}</p><p>${jobs.description}</p><p id="accomp"><strong>Key Accomplishment/s: </ul>`);
                 
-              //  loadAccomplishments(accompArray, $ulAccomp);
+               loadAccomplishments(jobs.accomplishment, $article);
                
 			});
         
@@ -33,26 +33,23 @@ $(() => {
         
       
 
-      /*  function loadAccomplishments(accompArray, $ulAccomp) {
-
-			data.employment.accomplishment.forEach((key) => {
-                
-                let $ulAccomp = $("<ul>");
-                $("#employment").append($ulAccomp);
-				
-                loadKeyAccomplishments(keyArray, $ulAccomp);
+        function loadAccomplishments(accompArray, $article) {
+            
+            
+			accompArray.forEach((key) => {
+                         
+                loadKeyAccomplishments(key, $article);
                 console.log(accompArray);
 
 			});
 		};
-          function loadKeyAccomplishments(keyArray, $ulAccomp) {
-
-			let $liKey = $("<li>");
-              $ulAccomp.append($liKey);
-              $liKey.append(`<li>${accomplishment.key}</li>`);
-              console.log($liKey);
+          function loadKeyAccomplishments(accomplishment, $article) {
+             
+            
+              $article.append(`<ul id=key-accomp"><li style ="text-align: left; list-style: disc; padding-right: 70px;
+	margin-left: 30px; line-height: normal;">${accomplishment.key}</li></ul>`);
 			
-		};*/
+		};
 		function loadEducationData() {
 
 			data.education.forEach((education) => {
