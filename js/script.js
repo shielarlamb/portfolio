@@ -72,29 +72,29 @@ $(() => {
 
 		function toggleElements() {
 			$("#displayButtonTraining").on("click", function () {
-				$(this).next().toggle();
-				$("#ulTraining").toggle();
-				$("#hideButtonTraining").show();
-				$("#displayButtonTraining").hide();
+				$(this).next().toggle("fold");
+				$("#ulTraining").toggle("fold");
+				$("#hideButtonTraining").show("fold");
+				$("#displayButtonTraining").hide("fold");
 			});
 			$("#tabTraining").on("click", function () {
-				$(this).next().show();
-				$("#ulTraining").show();
+				$(this).next().show("fold");
+				$("#ulTraining").show("fold");
 				$("#hideButtonTraining").show();
 				$("#displayButtonTraining").hide();
 			});
 
 		$("#hideButtonTraining").on("click", function () {
-				$(this).next().toggle();
-				$("#ulTraining").toggle();
-				$("#hideButtonTraining").hide();
-				$("#displayButtonTraining").show();
+				$(this).next().toggle("fold");
+				$("#ulTraining").toggle("fold");
+				$("#hideButtonTraining").hide("fold");
+				$("#displayButtonTraining").show("fold");
 			});
 			
 				$("#tabCollapse").on("click", function () {
-				$("#ulTraining").hide();
-				$("#hideButtonTraining").hide();
-				$("#displayButtonTraining").show();
+				$("#ulTraining").hide("fold");
+				$("#hideButtonTraining").hide("fold");
+				$("#displayButtonTraining").show("fold");
 			});
 			};
 
