@@ -4,7 +4,7 @@
         const colors = ['#ccc', '#6cf', '#eba13a', '#b666d2'];
         
         circle.setAttribute("class", "circle");
-        document.body.appendChild(circle);
+        document.body.append(circle);
         
         circle.style.left = event.clientX + 'px';
         circle.style.top = event.clientY + 'px';
