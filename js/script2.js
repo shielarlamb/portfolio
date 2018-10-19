@@ -15,8 +15,8 @@
         
         circle.style.transition = "all 0.5s linear 0s";
         
-        circle.style.left = circle.offsetLeft - 20 + 'px';
-        circle.style.top = circle.offsetTop - 20 + 'px';
+        circle.style.left = circle.offsetLeft - 100 + 'px';
+        circle.style.top = circle.offsetTop - 100 + 'px';
         
         circle.style.width = "50px"; 
         circle.style.height = "50px";

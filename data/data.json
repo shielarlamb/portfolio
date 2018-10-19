@@ -155,19 +155,10 @@
             "name": "Strive for continued excellence."
 		},
         {
-            "name": "Srong communication skills."
-		},
-        {
             "name": "Strong computer skills."
 		},
         {
             "name": "Strong troubleshooting skills."
-		},
-        {
-            "name": "I am a self-starter."
-		},
-        {
-            "name": "People person."
 		},
         {
             "name": "Apollo, Sabre and Worldspan GDS"
@@ -178,7 +169,6 @@
         {
             "name": "HTML5 and CSS"
 		},
-
         {
             "name": "C# Language"
 		},
@@ -196,13 +186,15 @@
 
     "education": [
         {
-            "name": "A.A.S in .Net Programming (President's list with 4.0 GPA)",
+            "name": "A.A.S in .Net Programming",
+            "recognition": "President's list with 4.0 GPA",
             "school": "Hennepin Technical College",
             "date": "2016-Present"
 		},
 
         {
-            "name": "Bachelors in Elementary Education (Graduated with Academic Distinction)",
+            "name": "Bachelors in Elementary Education ",
+            "recognition": "Graduated with Academic Distinction",
             "school": "Concepcion Holy Cross College",
             "date": "2002-2006"
 		}

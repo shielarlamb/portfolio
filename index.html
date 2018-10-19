@@ -25,7 +25,7 @@
 	<link rel="stylesheet" href="srl.css">
 </head>
 
-<body data-spy="scroll" data-target=".navbar" data-offset="30">
+<body id="body" data-spy="scroll" data-target=".navbar" data-offset="100">
     
 	<nav class="navbar navbar-inverse navbar-fixed-top">
 		<div class="container">
@@ -41,8 +41,8 @@
 				<ul class="nav navbar-nav">
 					<li><a href="#home">Intro</a></li>
 					<li><a href="#key-strengths-and-skills">Key Strengths and Skills</a></li>
-					<li><a href="#work-history">Work History</a></li>
-					<li><a href="#education" class="tabCollapse">Education</a></li>
+					<li><a href="#work-history" id="tabEmployment">Work History</a></li>
+					<li><a href="#education" class="tabEducation">Education</a></li>
 					<li><a href="#training" id="tabTraining">Training</a></li>
 					<li><a href="#projects" id="tabCollapse">Projects</a></li>
 				</ul>
@@ -54,7 +54,7 @@
      <div id= "main-animation">
    	<div id="home" class="navbar jumbotron">
 			<h2 class="text-left">Shiela Riza A Lamb</h2>
-			<p>I am originally from the Philippines where I earned my bachelor's degree in Education. I moved to the US in 2014 and started working for SAP Concur. My passion is in technology which is why I decided to go back to school and took programming. I will finish my second degree by Spring 2019 and I am looking to use the skills and knowledge I gained. Please feel free to check my Github profile for all my projects.&nbsp;
+			<p>I am originally from the Philippines where I earned my bachelor's degree in Education. I moved to the US in 2014 and started working for SAP Concur. I have passion in technology which is why I went back to school and took programming. I will finish my second degree by Spring 2019 and I am looking to use the skills and knowledge I gained from this new venture. You can find more of my projects by visiting my Github profile.&nbsp;
 				<a href="https://github.com/shielarlamb" target="_blank"><i class="fa fa-github" aria-hidden="true"></i></a></p>
 		</div>
 		<section id="section1">
@@ -79,12 +79,13 @@
 		<section id="work-history">
 			<div class="row">
 				<div id="employment" class="col-xs-12 col-sm-12 col-lg-12 visible-lg visible-xs visible-sm visible-md">
-					<h3 class="text-center">Work History</h3>
+					<h3 class="text-center">Work History <button type="button" class="btn btn-info" id="displayButtonEmployment">+</button>
+					 <button type="button" id="hideButtonEmployment" class="btn btn-info">-</button></h3>
 				</div>
 			</div>
 		</section>
 
-		<section id="education" class="col-xs-12 col-sm-12 col-lg-12 visible-lg visible-xs visible-sm visible-md">
+		<section id="education" class="col-xs-12 col-sm-12 col-lg-4 visible-lg visible-xs visible-sm visible-md col-md-offset-4">
 			<div class="row">
 				<div id="divEducation">
 					<h3 class="text-center">Education</h3>

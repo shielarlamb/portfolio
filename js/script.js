@@ -12,12 +12,16 @@ $(() => {
 
 
         function loadEmploymentData() {
-            let $article = $("<article>");
-            $("#employment").append($article);
-            data.employment.forEach((jobs) => {
-                $article.append(`<ul><li style="padding-top: 20px;"><strong>${jobs.position}</strong></li><li>${jobs.company}</li><li>${jobs.address}</li><li>${jobs.date}</p><p>${jobs.description}</p><p id="accomp"><strong>Key Accomplishment/s: </ul>`);
 
-                loadAccomplishments(jobs.accomplishment, $article);
+            $("#displayButtonEmployment").show();
+            $("#hideButtonEmployment").hide();
+            const $divEmployment = $(`<div id="ulEmployment">`);
+            $("#employment").append($divEmployment);
+            $divEmployment.hide();
+            data.employment.forEach((jobs) => {
+                $divEmployment.append(`<ul><li style="padding-top: 20px;"><strong>${jobs.position}</strong></li><li>${jobs.company}</li><li>${jobs.address}</li><li>${jobs.date}</p><p>${jobs.description}</p><p id="accomp"><strong>Key Accomplishment/s: </ul>`);
+
+                loadAccomplishments(jobs.accomplishment, $divEmployment);
 
             });
 
@@ -55,7 +59,7 @@ $(() => {
         function loadEducationData() {
 
             data.education.forEach((education) => {
-                $("#education").append(`<ul><li><strong>${education.name}</strong></li><li>${education.school}</li><li>${education.date}</li></ul>`);
+                $("#education").append(`<p><strong>${education.name}</strong></p><p class="educ-details"><strong>${education.recognition}</strong></p><p class="educ-details">${education.school}</p><p class="educ-details">${education.date}</p><br><br>`);
 
             });
         };
@@ -82,8 +86,8 @@ $(() => {
             $("#tabTraining").on("click", function () {
                 $(this).next().show("fold");
                 $("#ulTraining").show("fold");
-                $("#hideButtonTraining").show();
-                $("#displayButtonTraining").hide();
+                $("#hideButtonTraining").show("fold");
+                $("#displayButtonTraining").hide("fold");
             });
 
             $("#hideButtonTraining").on("click", function () {
@@ -98,6 +102,36 @@ $(() => {
                 $("#hideButtonTraining").hide("fold");
                 $("#displayButtonTraining").show("fold");
             });
+
+
+            $("#displayButtonEmployment").on("click", function () {
+                $(this).next().toggle("fold");
+                $("#ulEmployment").show("fold");
+                $("#hideButtonEmployment").show("fold");
+                $("#displayButtonEmployment").hide("fold");
+            });
+
+            $("#tabEmployment").on("click", function () {
+                $(this).next().show("fold");
+                $("#ulEmployment").show("fold");
+                $("#hideButtonEmployment").show("fold");
+                $("#displayButtonEmployment").hide("fold");
+            });
+
+            $("#hideButtonEmployment").on("click", function () {
+                $(this).next().toggle("fold");
+                $("#ulEmployment").hide("fold");
+                $("#hideButtonEmployment").hide("fold");
+                $("#displayButtonEmployment").show("fold");
+            });
+
+               $("#tabEducation").on("click", function () {
+                $(this).next().toggle("fold");
+                $("#ulEmployment").hide("fold");
+                $("#hideButtonEmployment").hide("fold");
+                $("#displayButtonEmployment").show("fold");
+            });
+
         };
 
     });
