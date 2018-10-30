@@ -12,6 +12,7 @@ body {
 	position: relative;
 	background-color: #BBE3F8;
 	background-image: url(images/grandcanyon.JPG);
+    position: relative;
 }
 
 .navbar-light .navbar .navbar-inverse .navbar-fixed-top {
@@ -119,11 +120,9 @@ figcaption {
 
 #education {
 	color: #0673C0;
-	border-style: solid;
-	border-color: #0673C0;
-    border-radius: 70%;
-	background-color: #FFFFFF;
-    align-content: center;
+	align-content: center;
+    
+   
   
 }
 
@@ -145,12 +144,25 @@ figcaption {
 	width: 100%;
 }
 
+#line {
+   text-decoration: overline;
+}
+
+#liCore {
+    list-style-type: none;
+	text-align: center;
+    width: 50%;
+    float: left;
+
+	
+}
 
 #key-strengths-and-skills {
 	padding: 20px;
 	border-style: solid;
 	border-color: #0673C0;
-	margin-top: 20px;
+    border-radius: 10%;
+    margin-top: 20px;
 	background-color: #FFFFFF;
 }
 
@@ -198,15 +210,17 @@ figcaption {
 #projects {
 	color: #0673C0;
 	align-content: center;
-	padding: 60px;
+    padding-top: 10px;
+	margin-top: 20px;
+	
 }
 
 #section6 {
 	text-align: right;
 }
 #training {
-	padding: 20px;
-	margin-top: 50px;
+	padding-top: 10px;
+	margin-top: 20px;
 	
 }
 
@@ -222,7 +236,7 @@ figcaption {
 	color: #0673C0;
 	text-align: left;
 	font-size: 15px;
-	
+
 }
 
 #key-accomp {

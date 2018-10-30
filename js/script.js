@@ -6,6 +6,7 @@ $(() => {
         loadEmploymentData(data.employment);
         loadSkillsData(data.skills);
         loadEducationData(data.education);
+        loadCoreClasses(data.core);
         loadTrainingnData(data.training);
         toggleElements();
         console.log(data.employment);
@@ -58,11 +59,21 @@ $(() => {
 
         function loadEducationData() {
 
+            
             data.education.forEach((education) => {
-                $("#education").append(`<p><strong>${education.name}</strong></p><p class="educ-details"><strong>${education.recognition}</strong></p><p class="educ-details">${education.school}</p><p class="educ-details">${education.date}</p><br><br>`);
+                $("#degrees").append(`<p><strong>${education.name}</strong></p><p class="educ-details"><strong>${education.recognition}</strong></p><p class="educ-details">${education.school}</p><p class="educ-details">${education.date}</p><br>`);
 
             });
         };
+
+        function loadCoreClasses() {
+
+            data.core.forEach((core) => {
+                $("#techCourses").append(`<li id="liCore">${core.class}</li>`);
+
+            });
+        };
+
 
         function loadTrainingnData() {
             $("#displayButtonTraining").show();
@@ -97,7 +108,7 @@ $(() => {
                 $("#displayButtonTraining").show("fold");
             });
 
-            $("#tabCollapse").on("click", function () {
+            $("#tabProject").on("click", function () {
                 $("#ulTraining").hide("fold");
                 $("#hideButtonTraining").hide("fold");
                 $("#displayButtonTraining").show("fold");
@@ -125,7 +136,7 @@ $(() => {
                 $("#displayButtonEmployment").show("fold");
             });
 
-               $("#tabEducation").on("click", function () {
+            $("#tabEducation").on("click", function () {
                 $(this).next().toggle("fold");
                 $("#ulEmployment").hide("fold");
                 $("#hideButtonEmployment").hide("fold");

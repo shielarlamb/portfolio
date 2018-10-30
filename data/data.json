@@ -200,6 +200,41 @@
 		}
 
 	],
+
+    "core": [
+        {
+            "class": "HTML & CSS"
+		},
+
+        {
+            "class": "Fundamentals of Programming - Python"
+
+		},
+        {
+            "class": ".NET Programming I"
+
+		},
+        {
+            "class": "Database Design & SQL"
+
+		},
+        {
+            "class": "JavaScript"
+		},
+        {
+            "class": "SQL Server-TransactSQL"
+
+		},
+        {
+            "class": ".NET Programming II"
+
+		},
+        {
+            "class": "Client/Server Computing"
+
+		}
+
+	],
     "training": [
 
         {
