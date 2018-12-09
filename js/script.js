@@ -2,6 +2,8 @@ $(() => {
 
     console.log("hello");
 
+
+
     $.getJSON("data/data.json", (data) => {
         loadEmploymentData(data.employment);
         loadSkillsData(data.skills);
@@ -10,7 +12,7 @@ $(() => {
         loadTrainingnData(data.training);
         toggleElements();
         console.log(data.employment);
-
+   
 
         function loadEmploymentData() {
 
@@ -59,7 +61,7 @@ $(() => {
 
         function loadEducationData() {
 
-            
+
             data.education.forEach((education) => {
                 $("#degrees").append(`<p><strong>${education.name}</strong></p><p class="educ-details"><strong>${education.recognition}</strong></p><p class="educ-details">${education.school}</p><p class="educ-details">${education.date}</p><br>`);
 

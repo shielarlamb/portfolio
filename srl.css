@@ -1,282 +1,319 @@
 html {
-	/* Needed to fix footer at bottom of browser */
-	position: relative;
-	min-height: 100%;
+    /* Needed to fix footer at bottom of browser */
+    position: relative;
+    min-height: 100%;
 }
 
 body {
-	/* Move down content because of fixed navbar at top */
-	padding-top: 50px;
-	/* Set margin bottom allow for footer height */
-	margin-bottom: 50px;
-	position: relative;
-	background-color: #BBE3F8;
-	background-image: url(images/grandcanyon.JPG);
+    /* Move down content because of fixed navbar at top */
+    padding-top: 50px;
+    /* Set margin bottom allow for footer height */
+    margin-bottom: 50px;
+    position: relative;
+    background-color: #BBE3F8;
+    background-image: url(images/grandcanyon.JPG);
     position: relative;
 }
 
 .navbar-light .navbar .navbar-inverse .navbar-fixed-top {
-	color: #000000;
+    color: #000000;
 }
 
 .navbar-inverse {
-	background-color: #055288;
+    background-color: #055288;
 }
 
 .navbar-inverse .navbar-brand {
-	color: #FFFFFF;
+    color: #FFFFFF;
 }
 
 .navbar-inverse li {
-	color: #000000
+    color: #000000
 }
 
 main {
-	background-color: floralwhite;
-	padding-bottom: 25px;
-	border-bottom-left-radius: 6px;
-	border-bottom-right-radius: 6px
+    background-color: floralwhite;
+    padding-bottom: 25px;
+    border-bottom-left-radius: 6px;
+    border-bottom-right-radius: 6px
 }
 
 main .row {
-	margin-bottom: 15px;
+    margin-bottom: 15px;
 }
 
 h2 {
-	color: #D4D300;
+    color: #D4D300;
 }
 
 h3 {
-	text-align: left;
-	font-size: 20px;
-	font-weight: bold;
-	padding-top: 25px;
-	padding-bottom: 20px;
+    text-align: left;
+    font-size: 20px;
+    font-weight: bold;
+    padding-top: 25px;
+    padding-bottom: 20px;
 }
 
 h4 {
-	font-family: Papyrus, Rockwell, sans-serif;
-	padding-bottom: 5px;
-	text-align: center;
-	font-weight: bold;
+    font-family: Papyrus, Rockwell, sans-serif;
+    padding-bottom: 5px;
+    text-align: center;
+    font-weight: bold;
 }
 
 h4 a {
-	font-family: sans-serif;
-	font-size: 15px;
-	font-weight: 100;
+    font-family: sans-serif;
+    font-size: 15px;
+    font-weight: 100;
 }
 
 h5 {
-	font-family: Papyrus, Rockwell, sans-serif;
-	margin-top: 20px;
-	padding-top: 5px;
-	padding-bottom: 5px;
-	text-align: right;
-	font-weight: bold;
+    font-family: Papyrus, Rockwell, sans-serif;
+    margin-top: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    text-align: right;
+    font-weight: bold;
 }
 
 h1 {
-	padding-top: 25px;
+    padding-top: 25px;
 }
 
 figcaption {
-	font-family: Papyrus, Rockwell, sans-serif;
-	margin-top: 5px;
-	padding-top: 5px;
-	padding-bottom: 5px;
-	text-align: center;
-	font-weight: bold;
+    font-family: Papyrus, Rockwell, sans-serif;
+    margin-top: 5px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    text-align: center;
+    font-weight: bold;
 }
 
 .jumbotron {
-	margin-top: 15px;
-	padding: 30px;
-	color: #FFFFFF;
-	text-align: left;
-	background-image: url(images/background.jpg);
-	background-repeat: no-repeat;
-	background-size: cover;
+    margin-top: 15px;
+    padding: 30px;
+    color: #FFFFFF;
+    text-align: left;
+    background-image: url(images/background.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 .jumbotron a:link {
-	text-decoration: none;
-	color: azure;
+    text-decoration: none;
+    color: azure;
 }
 
 .jumbotron a:visited {
-	color: beige;
+    color: beige;
 }
 
 .jumbotron a:hover {
-	color: #FFFC0B;
+    color: #FFFC0B;
 }
 
 #section1 {
-	color: #0673C0;
-	text-align: left;
-	padding-bottom: 25px;
+    color: #0673C0;
+    text-align: left;
+    padding-bottom: 25px;
 }
 
 #education {
-	color: #0673C0;
-	align-content: center;
-    
-   
-  
+    color: #0673C0;
+    align-content: center;
+
+
+
 }
 
 #education p {
-	list-style-type: none;
-	text-align: center;
-	font-size: 16px;
-	width: 100%;
+    list-style-type: none;
+    text-align: center;
+    font-size: 16px;
+    width: 100%;
     line-height: normal;
 }
+
 #education .educ-details {
     line-height: 80%;
     font-size: 14px;
-   
+
 }
+
 #education h3 {
-	list-style-type: none;
-	text-align: center;
-	width: 100%;
+    list-style-type: none;
+    text-align: center;
+    width: 100%;
 }
 
 #line {
-   text-decoration: overline;
+    text-decoration: overline;
 }
 
 #liCore {
     list-style-type: none;
-	text-align: center;
+    text-align: center;
     width: 50%;
     float: left;
 
-	
+
 }
 
 #key-strengths-and-skills {
-	padding: 20px;
-	border-style: solid;
-	border-color: #0673C0;
+    padding: 20px;
+    border-style: solid;
+    border-color: #0673C0;
     border-radius: 10%;
     margin-top: 20px;
-	background-color: #FFFFFF;
+    background-color: #FFFFFF;
 }
 
 #key-strengths-and-skills h3 {
-	color: #0673C0;
-	text-align: left;
-	padding: 10px;
-	text-align: center;
+    color: #0673C0;
+    text-align: left;
+    padding: 10px;
+    text-align: center;
 }
 
 #key-strengths-and-skills li {
-	color: #0673C0;
-	text-align: left;
-	font-size: 15px;
+    color: #0673C0;
+    text-align: left;
+    font-size: 15px;
 }
 
 #work-history {
-	margin-top: 50px;
-	border: none;
-	color: #0673C0;
-	text-align: center;
-	display: inline;
-	padding: 10px;
+    margin-top: 50px;
+    border: none;
+    color: #0673C0;
+    text-align: center;
+    display: inline;
+    padding: 10px;
     padding-top: 100px;
     padding-bottom: 100px;
-	text-align: justify;
+    text-align: justify;
 }
 
 #work-history li {
-	list-style-type: none;
-	text-align: center;
-	font-size: 15px;
-	width: 100%;
-	padding-left: 10px;
-	padding-right: 10px;
+    list-style-type: none;
+    text-align: center;
+    font-size: 15px;
+    width: 100%;
+    padding-left: 10px;
+    padding-right: 10px;
 }
 
 #work-history ul p {
-	text-align: justify;
-	font-style: italic;
-	margin-right: 40px;
-	padding: 5px;
+    text-align: justify;
+    font-style: italic;
+    margin-right: 40px;
+    padding: 5px;
 }
 
 #projects {
-	color: #0673C0;
-	align-content: center;
+    color: #0673C0;
+    align-content: center;
     padding-top: 10px;
-	margin-top: 20px;
-	
+    margin-top: 20px;
+
 }
 
 #section6 {
-	text-align: right;
+    text-align: right;
 }
+
 #training {
-	padding-top: 10px;
-	margin-top: 20px;
-	
+    padding-top: 10px;
+    margin-top: 20px;
+
 }
 
 #training h3 {
-	color: #0673C0;
-	text-align: left;
-	padding: 10px;
-	text-align: center;
-	
+    color: #0673C0;
+    text-align: left;
+    padding: 10px;
+    text-align: center;
+
 }
 
 #training li {
-	color: #0673C0;
-	text-align: left;
-	font-size: 15px;
+    color: #0673C0;
+    text-align: left;
+    font-size: 15px;
 
 }
 
 #key-accomp {
-   text-align: left;
-   list-style: disc;
+    text-align: left;
+    list-style: disc;
     padding: 20px;
 }
 
 .circle {
     width: 20px;
-    height:  20px;
+    height: 20px;
     border: 1px solid #000;
     border-radius: 10px;
     position: absolute;
 }
 
+hr {
+    border-color: #0673C0;
+    border-bottom-style: double;
+}
+
 footer {
-	position: fixed;
-	bottom: 0;
-	height: 50px;
-	width: 100%;
-	background-color: #055288;
-	color: #FFFFFF;
-	text-align: center;
-	padding-bottom: 55px;
+    position: fixed;
+    bottom: 0;
+    height: 50px;
+    width: 100%;
+    background-color: #055288;
+    color: #FFFFFF;
+    text-align: center;
+    padding-bottom: 55px;
 }
 
 footer a {
-	color: #ffffff;
+    color: #ffffff;
 }
 
 footer a:link {
-	text-decoration: none;
-	color: azure;
+    text-decoration: none;
+    color: azure;
 }
 
 footer a:visited {
-	color: beige;
+    color: beige;
 }
 
 footer a:hover {
-	color: #FFFC0B;
+    color: #FFFC0B;
 }
+
+
+/*
+////////////////////////////////////////////////
+@for $i from 1 through 6 {
+
+    @keyframes particle-animation-#{$i} {
+        100% {
+            transform: translate3d((random(90) * 1vw), (random(90) * 1vh), (random(100) * 1px));
+        }
+    }
+    .particle: nth-child(#{$i}) {
+        animation: particle-animation-#{$i} 5s infinite;
+        $size: random(5) + 5 + px;
+        height: $size;
+        width: $size;
+        opacity: random(100)/100;
+        animation-delay: -$i * .2s;
+        background: hsl(random(360), 70%, 50%);
+        transform: translate3d((random(90) * 1vw), (random(90) * 1vh), (random(100) * 1px));
+    }
+}
+
+.particle {
+    position: absolute;
+    border-radius: 50%;
+
+}
+*/
