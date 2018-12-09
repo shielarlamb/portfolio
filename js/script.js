@@ -12,7 +12,7 @@ $(() => {
         loadTrainingnData(data.training);
         toggleElements();
         console.log(data.employment);
-   
+
 
         function loadEmploymentData() {
 
@@ -114,8 +114,10 @@ $(() => {
                 $("#ulTraining").hide("fold");
                 $("#hideButtonTraining").hide("fold");
                 $("#displayButtonTraining").show("fold");
+                $("#ulEmployment").hide("fold");
+                $("#hideButtonEmployment").hide("fold");
+                $("#displayButtonEmployment").show("fold");
             });
-
 
             $("#displayButtonEmployment").on("click", function () {
                 $(this).next().toggle("fold");
@@ -138,12 +140,14 @@ $(() => {
                 $("#displayButtonEmployment").show("fold");
             });
 
-            $("#tabEducation").on("click", function () {
+   /*         $("#tabEducation").on("click", function () {
                 $(this).next().toggle("fold");
                 $("#ulEmployment").hide("fold");
                 $("#hideButtonEmployment").hide("fold");
                 $("#displayButtonEmployment").show("fold");
-            });
+                $("#ulTraining").hide("fold");
+
+            });*/
 
         };
 

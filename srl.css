@@ -121,9 +121,7 @@ figcaption {
 #education {
     color: #0673C0;
     align-content: center;
-
-
-
+    height: 600px;
 }
 
 #education p {
@@ -166,6 +164,7 @@ figcaption {
     border-radius: 10%;
     margin-top: 20px;
     background-color: #FFFFFF;
+    height: 450px;
 }
 
 #key-strengths-and-skills h3 {
@@ -191,6 +190,7 @@ figcaption {
     padding-top: 100px;
     padding-bottom: 100px;
     text-align: justify;
+    height: 1500px;
 }
 
 #work-history li {
@@ -214,6 +214,7 @@ figcaption {
     align-content: center;
     padding-top: 10px;
     margin-top: 20px;
+    height: auto;
 
 }
 
@@ -224,6 +225,7 @@ figcaption {
 #training {
     padding-top: 10px;
     margin-top: 20px;
+    height: auto;
 
 }
 
@@ -259,6 +261,8 @@ figcaption {
 hr {
     border-color: #0673C0;
     border-bottom-style: double;
+     padding-top: 20px;
+    margin: 20px;
 }
 
 footer {
