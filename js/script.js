@@ -11,7 +11,9 @@ $(() => {
         loadCoreClasses(data.core);
         loadTrainingnData(data.training);
         toggleElements();
+        loadDates();
         console.log(data.employment);
+        
 
 
         function loadEmploymentData() {
@@ -29,6 +31,18 @@ $(() => {
             });
 
         };
+
+        function loadDates() {
+            const d = new Date();
+            const currYear = d.getFullYear();
+            d.setFullYear(currYear);
+            console.log(d);
+
+            $("#currDate").append(d);
+
+            $("#currYear").append(currYear);
+
+        }
 
         function loadSkillsData() {
 
@@ -140,14 +154,14 @@ $(() => {
                 $("#displayButtonEmployment").show("fold");
             });
 
-   /*         $("#tabEducation").on("click", function () {
-                $(this).next().toggle("fold");
-                $("#ulEmployment").hide("fold");
-                $("#hideButtonEmployment").hide("fold");
-                $("#displayButtonEmployment").show("fold");
-                $("#ulTraining").hide("fold");
+            /*         $("#tabEducation").on("click", function () {
+                         $(this).next().toggle("fold");
+                         $("#ulEmployment").hide("fold");
+                         $("#hideButtonEmployment").hide("fold");
+                         $("#displayButtonEmployment").show("fold");
+                         $("#ulTraining").hide("fold");
 
-            });*/
+                     });*/
 
         };
 

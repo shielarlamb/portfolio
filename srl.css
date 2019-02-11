@@ -31,6 +31,15 @@ body {
     color: #000000
 }
 
+#currDate {
+    text-align: right;
+    color: white;
+    list-style: none;
+    padding: 10px;
+    margin-right: 10px;
+    float: right;
+}
+
 main {
     background-color: floralwhite;
     padding-bottom: 25px;
