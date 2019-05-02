@@ -6,7 +6,7 @@
             "company": "SAP Concur Technologies Inc.",
             "address": "10700 Prairie Lakes Dr. Eden Prairie, MN, 55344",
             "position": "SAP Concur Configuration Consultant",
-            "description": "I work with existing clients in updating their SAP Concur configuration. Clients submit cases through Salesforce which are then assigned to us. They can still be in the implementation stage or have already transitioned using Concur. Configuration update request includes but not limited to, enabling and disabling their expense types and other features. Updating their workflow, fields, and forms. Depending on the amount of time spent, projects can be billable.",
+            "description": "I work with existing SAP Concur clients in updating their SAP Concur Expense and Invoice configuration. I also work with Project Managers to assist in the clients’ configuration. Clients I work with can be in the implementation phase or have already transitioned to using SAP Concur. I also present and recommend configurations to the company’s management members such as but not limited to vice presidents, directors, managers, and admins based on their company’s needs and SAP Concur’s best practices. I also handle service activations for SAP Concur Drive and ExpenseIt.",
 
             "accomplishment": [
 
@@ -232,7 +232,7 @@
         {
             "class": "Client/Server Computing"
 
-		},  
+		},
         {
             "class": ".NET Mobile Development"
 
@@ -241,7 +241,7 @@
             "class": "ASP.Net"
 
 		},
-          {
+        {
             "class": "System Analysis(In Progress)"
 
 		},
@@ -252,7 +252,11 @@
 
 	],
     "training": [
-
+        {
+            "name": "Emotional Intelligence P2: How to Maximize Your Business Potential",
+            "school": "SAP Success Map Learning",
+            "date": "February 2, 2018"
+		},
         {
             "name": "Introduction to Project Management",
             "school": "SAP Success Map Learning",
