@@ -187,13 +187,13 @@
     "education": [
         {
             "name": "Accelerated Master of Business Administration",
-            "recognition": "t",
+            "recognition": "",
             "school": "Saint Mary's University of Minnesota",
             "date": "2020 - In-progress"
 		},
         {
             "name": "A.A.S in .Net Programming",
-            "recognition": "Graduated with Distinction - 4.0 GPA",
+            "recognition": "",
             "school": "Hennepin Technical College",
             "date": "2016-2019"
 		},
