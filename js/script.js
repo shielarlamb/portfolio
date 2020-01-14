@@ -13,7 +13,7 @@ $(() => {
         toggleElements();
         loadDates();
         console.log(data.employment);
-        
+
 
 
         function loadEmploymentData() {
