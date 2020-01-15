@@ -130,7 +130,7 @@ figcaption {
 #education {
     color: #0673C0;
     align-content: center;
-    height: 600px;
+    height: auto;
 }
 
 #education p {
@@ -173,7 +173,8 @@ figcaption {
     border-radius: 10%;
     margin-top: 20px;
     background-color: #FFFFFF;
-    height: 450px;
+    height: auto;
+    text-align: right;
 }
 
 #key-strengths-and-skills h3 {
@@ -199,7 +200,7 @@ figcaption {
     padding-top: 100px;
     padding-bottom: 100px;
     text-align: justify;
-    height: 1500px;
+    height: auto;
 }
 
 #work-history li {
@@ -269,7 +270,7 @@ figcaption {
 hr {
     border-color: #0673C0;
     border-bottom-style: double;
-     padding-top: 20px;
+    padding-top: 20px;
     margin: 20px;
 }
 
