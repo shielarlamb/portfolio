@@ -12,6 +12,9 @@
 
                 {
                     "key": "Star performer during training."
+                },
+                {
+                    "key": "I was nominated as SAP Catalyst 2020."
                 }
             ]
 
@@ -21,15 +24,15 @@
             "company": "SAP Concur Technologies Inc.",
             "address": "10700 Prairie Lakes Dr. Eden Prairie, MN, 55344",
             "position": "Client Support Analyst I – Government Americas",
-            "description": "I worked on government submitted cases regarding configuration request, travel issues, Concur government edition software issues, creating and submitting authorizations and vouchers as well as Cognos queries. I walked the customer through in using the Concur as well as sending them follow-up email on the steps we just took for future reference. I also took calls and chat sessions from authorized contacts as needed. We used Salesforce to document our calls and cases. I was the ConcurGOV mobile lead as well as one of the curators for our internal knowledge base. I also provide assistance with my co-tier 2 and tier 1 for TMC fee questions and configuration inquiries.",
+            "description": "I worked on government submitted cases regarding configuration request, travel issues, Concur government edition software issues, creating and submitting authorizations and vouchers as well as Cognos queries. I walked the customer through in using the Concur as well as sending them a follow-up email on the steps we just took for future reference. I also received calls and chat sessions from authorized contacts as needed. We used Salesforce to document our calls and cases. I was the ConcurGOV mobile lead, as well as one of the curators for our internal knowledge base. I also assisted with my fellow tier 2 and tier 1 for TMC fee questions and configuration inquiries.",
 
 
             "accomplishment": [
                 {
-                    "key": "Applied for Client Support Representative but was hired as Client Support Analyst due to my exceptional experience and skills."
+                    "key": "Applied for Client Support Representative but was hired as a Client Support Analyst due to my exceptional experience and skills."
                 },
                 {
-                    "key": "Received a very pleasing commendation from the client on my 4th day on the floor."
+                    "key": "I received a very pleasing commendation from the client on my 4th day on the floor."
                 },
                 {
                     "key": "I was selected to be one of the curators of our internal knowledge base. ConcurGOV mobile lead for Tier 2."
@@ -44,7 +47,7 @@
                     "key": "I was given Fast Track Growth for my potential assessment rating for the last two years and extraordinary performance for the past year 2016 review."
                 },
                 {
-                    "key": "I was nominated SAP Catalyst 2018."
+                    "key": "I was nominated as SAP Catalyst 2018."
                 }
             ]
 
@@ -55,13 +58,13 @@
             "company": "Stream Global Services ",
             "address": "Clark Special Economic Zone, Pampanga, Philippines",
             "position": "Technical Support Professional I – Clear Internet Service",
-            "description": "I handled customers’ inquiries, complaints, billing questions and payment extension/service requests. Calm angry callers, locate resources for problem resolution and design best-option solutions for connectivity issues, speed issues, and devices issues. We used Salesforce to document our calls.",
+            "description": "I handled customers’ inquiries, complaints, billing questions, and payment extension/service requests. Calm angry callers, locate resources for problem resolution, and design best-option solutions for connectivity issues, speed issues, and devices issues. We used Salesforce to document our calls.",
 
 
 
             "accomplishment": [
                 {
-                    "key": "I ranked 3rd in the 3rd Quarter of 2013 (out of 80 Technical Support Professionals). The ranking was based on Customer Satisfaction Survey, Average Handling Time and First Call Resolution."
+                    "key": "I ranked 3rd in the 3rd Quarter of 2013 (out of 80 Technical Support Professionals). The ranking was based on Customer Satisfaction Survey, Average Handling Time, and First Call Resolution."
                 },
                 {
                     "key": "Commended by the client for having an outstanding call during live call calibration."
@@ -74,12 +77,12 @@
             "company": "Cyber City Teleservices Ltd.",
             "address": "Clark Special Economic Zone, Pampanga, Philippines",
             "position": "Call Center Agent for Harbor Freight Tools",
-            "description": "Handled sales call for 2 weeks and got transferred to the customer service department.  Handled billing queries, account, product replacements and repair orders.",
+            "description": "I handled sales calls for two weeks and was transferred to the customer service department.  I also provided assistance in billing queries, account, product replacements, and repair orders.",
 
 
             "accomplishment": [
                 {
-                    "key": "I was moved to the Customer Service department after 2 weeks of exceptional performance in sales."
+                    "key": "I was moved to the Customer Service department after two weeks of exceptional performance in sales."
                 }
             ]
 
@@ -94,10 +97,10 @@
 
             "accomplishment": [
                 {
-                    "key": "I became the lead go-to person for new representatives, particularly with challenging issues."
+                    "key": "I became the go-to lead person for new representatives, particularly with challenging issues."
                 },
                 {
-                    "key": "I was promoted to MS Xbox Technical Lead after four months of being on the floor as Technical Support Representative."
+                    "key": "I was promoted to MS Xbox Technical Lead after four months of being on the floor as a Technical Support Representative."
                 }
             ]
 
@@ -113,7 +116,7 @@
 
             "accomplishment": [
                 {
-                    "key": "Received perfect score from QA evaluation on multiple occasions."
+                    "key": "I received perfect scores from the QA evaluation on multiple occasions."
                 }
             ]
 
@@ -123,12 +126,12 @@
             "company": "Sutherland Global Services ",
             "address": "Clark Special Economic Zone, Pampanga, Philippines",
             "position": "Tier 2 – Senior Agent for Microsoft Zune",
-            "description": "I provided technical support to customers with computer, software, windows and devices issues. I handled consult and escalation calls from Tier 1 reps with a more challenging computer, software and device problems.  We document our calls and cases using CRM.",
+            "description": "I provided technical support to customers with computers, software, windows, and devices issues. I handled consult and escalation calls from Tier 1 reps with a more challenging computer, software, and device problems.  We document our calls and cases using CRM.",
 
 
             "accomplishment": [
                 {
-                    "key": "I was promoted to Tier 2 (Level 2) after 2 months of handling Tier 1 (Level 1) calls."
+                    "key": "I was promoted to Tier 2 (Level 2) after two months of handling Tier 1 (Level 1) calls."
                 }
             ]
 		},
@@ -137,12 +140,12 @@
             "company": "Cyber City Teleservices Ltd.",
             "address": "Clark Special Economic Zone, Pampanga, Philippines",
             "position": "Call Center Agent for Mcleodusa Telecommunication",
-            "description": "I handled incoming calls from customer with billing issues and account issues. I provided basic telephone troubleshooting and submit a trouble ticket for technician dispatch.",
+            "description": "I handled incoming calls from customers with billing issues and account issues. I provided basic telephone troubleshooting and submit a trouble ticket for technician dispatch.",
 
 
             "accomplishment": [
                 {
-                    "key": "Received multiple Excellent Performance certificates for an outstanding QA evaluation.."
+                    "key": "I received multiple Excellent Performance certificates for an outstanding QA evaluation."
                 }
             ]
 
