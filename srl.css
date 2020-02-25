@@ -195,7 +195,7 @@ figcaption {
     border: none;
     color: #0673C0;
     text-align: center;
-    display: inline;
+/*    display: inline;*/
     padding: 10px;
     padding-top: 100px;
     padding-bottom: 100px;
