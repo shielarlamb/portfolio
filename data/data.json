@@ -6,15 +6,12 @@
             "company": "SAP Concur Technologies Inc.",
             "address": "10700 Prairie Lakes Dr. Eden Prairie, MN, 55344",
             "position": "Consultant",
-            "description": "I work with existing SAP Concur clients in updating their SAP Concur Expense, Invoice, and Request configuration via case. I also implement projects such as but not limited to, new credit card feeds, SAP Concur sites, SAP Concur Intelligence, ExpenseIt, and Concur Drive.  Depending on the complexity of the configuration request, I set up meetings with clients to gather all the necessary information to complete the configuration.  I also present and recommend configurations to the company’s management members such as but not limited to vice presidents, directors, managers, and admins based on their company’s needs, and SAP Concur’s best practices.",
+            "description": "I implement and manage multiple Expense expansion SAP Concur projects, and I work with other project managers to help with the clients' configuration.  I also assist customers in updating and troubleshooting their SAP Concur Expense, Request, and Invoice configuration via cases. I present and recommend designs to the company's management team, such as but not limited to vice presidents, directors, managers, and administrators based on their company's needs and SAP Concur's best practices. I also handle different service activations such as, but not limited to, SAP Concur Drive and ExpenseIt.",
 
             "accomplishment": [
 
                 {
-                    "key": "Star performer during training."
-                },
-                {
-                    "key": "I was nominated as SAP Catalyst 2020."
+                    "key": "I was nominated as SAP Catalyst 2020 and 2021."
                 }
             ]
 
@@ -24,7 +21,7 @@
             "company": "SAP Concur Technologies Inc.",
             "address": "10700 Prairie Lakes Dr. Eden Prairie, MN, 55344",
             "position": "Client Support Analyst I – Government Americas",
-            "description": "I worked on government submitted cases regarding configuration request, travel issues, Concur government edition software issues, creating and submitting authorizations and vouchers as well as Cognos queries. I walked the customer through in using the Concur as well as sending them a follow-up email on the steps we just took for future reference. I also received calls and chat sessions from authorized contacts as needed. We used Salesforce to document our calls and cases. I was the ConcurGOV mobile lead, as well as one of the curators for our internal knowledge base. I also assisted with my fellow tier 2 and tier 1 for TMC fee questions and configuration inquiries.",
+            "description": "I worked on submitted cases submitted by the Government Edition customers regarding configuration requests, travel issues, Concur Government Edition software issues, creating and submitting authorizations and vouchers, as well as answer Cognos queries. I walked customers through using Concur Government Edition as well as documenting the steps that we took for future references. I also took calls and chat sessions from authorized contacts as needed. We used Salesforce to document our calls and cases. I was the mobile lead where I take most of the mobile cases submitted by the clients, as well as one of the curators for our internal knowledge base. I helped my co-tier-2 and tier 1 for T.M.C. fee questions and configuration inquiries. I also created CRMC from JIRA to submit escalations to R&D.",
 
 
             "accomplishment": [
@@ -73,21 +70,6 @@
 
 		},
         {
-            "date": "July 05, 2012 – September 3, 2012",
-            "company": "Cyber City Teleservices Ltd.",
-            "address": "Clark Special Economic Zone, Pampanga, Philippines",
-            "position": "Call Center Agent for Harbor Freight Tools",
-            "description": "I handled sales calls for two weeks and was transferred to the customer service department.  I also provided assistance in billing queries, account, product replacements, and repair orders.",
-
-
-            "accomplishment": [
-                {
-                    "key": "I was moved to the Customer Service department after two weeks of exceptional performance in sales."
-                }
-            ]
-
-		},
-        {
             "date": "November 16, 2009 – May 31, 2012 ",
             "company": "Sutherland Global Services ",
             "address": "Clark Special Economic Zone, Pampanga, Philippines",
@@ -97,7 +79,7 @@
 
             "accomplishment": [
                 {
-                    "key": "I became the go-to lead person for new representatives, particularly with challenging issues."
+                    "key": "I was the go-to lead person for new representatives, particularly with challenging issues."
                 },
                 {
                     "key": "I was promoted to MS Xbox Technical Lead after four months of being on the floor as a Technical Support Representative."
@@ -155,6 +137,15 @@
 
     "skills": [
         {
+            "name": "Self-starter."
+		},
+        {
+            "name": "Can-do attitude"
+		},
+        {
+            "name": "Strong planning and organizational skills."
+		},
+        {
             "name": "Strive for continued excellence."
 		},
         {
@@ -189,7 +180,7 @@
 
     "education": [
         {
-            "name": "Master of Business Administration",
+            "name": "Master of Business Administration with International Development Certificate",
             "recognition": "",
             "school": "Saint Mary's University of Minnesota",
             "date": "2020 - In-progress"
@@ -320,15 +311,11 @@
             "school": "SAP Success Map Learning",
             "date": "June 5, 2017"
 		},
-
-
         {
             "name": "Caliper Assessment & Coaching Process",
             "school": "SAP Success Map Learning",
             "date": "August 2016"
 		},
-
-
         {
             "name": "MBTI: Communication and Leadership",
             "school": "SAP Success Map Learning",
@@ -355,7 +342,6 @@
             "school": "Concur University",
             "date": "September 22, 2015"
 		},
-
         {
             "name": "Developing Generational Engagement",
             "school": "Concur University",
