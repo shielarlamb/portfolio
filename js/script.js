@@ -13,6 +13,7 @@ $(() => {
         toggleElements();
         loadDates();
         console.log(data.employment);
+        loadCertData(data.certifications);
 
 
 
@@ -82,10 +83,19 @@ $(() => {
             });
         };
 
+               function loadCertData() {
+
+
+            data.certifications.forEach((certifications) => {
+                $("#certName").append(`<p><strong>${certifications.name}</strong></p><p class="cert-details"><strong>${certifications.issuer}</strong></p><p class="cert-details">${certifications.issuedate}</p><p class="cert-details">${certifications.expdate}</p><br>`);
+
+            });
+        };
+        
         function loadCoreClasses() {
 
             data.core.forEach((core) => {
-                $("#techCourses").append(`<li id="liCore">${core.class}</li>`);
+                $("#techCourses").append(`<ul><li id="liCore">${core.class}</li></ul>`);
 
             });
         };

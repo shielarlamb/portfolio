@@ -131,6 +131,7 @@ figcaption {
     color: #0673C0;
     align-content: center;
     height: auto;
+  
 }
 
 #education p {
@@ -142,8 +143,8 @@ figcaption {
 }
 
 #education .educ-details {
-    line-height: 80%;
-    font-size: 14px;
+    line-height: auto;
+    font-size: 15px;
 
 }
 
@@ -153,28 +154,78 @@ figcaption {
     width: 100%;
 }
 
+
+#certName {
+    color: #0673C0;
+    align-content: center;
+    height: auto;
+  
+ 
+}
+
+#certName p {
+    list-style-type: none;
+    text-align: center;
+    font-size: 16px;
+    width: 100%;
+    line-height: auto;
+}
+
+#certName .cert-details {
+    line-height: auto;
+    font-size: 15px;
+
+}
+
+#certName h3 {
+    list-style-type: none;
+    text-align: center;
+    width: auto;
+    
+}
+
 #line {
     text-decoration: overline;
 }
 
-#liCore {
-    list-style-type: none;
-    text-align: center;
-    width: 50%;
-    float: left;
-
-
-}
-
-#key-strengths-and-skills {
-    padding: 20px;
+#tech {
+    /*padding: 20px;
     border-style: solid;
     border-color: #0673C0;
     border-radius: 10%;
-    margin-top: 20px;
-    background-color: #FFFFFF;
+    */
+    /*    margin-top: 20px;*/
+    /*    background-color: #FFFFFF;*/
     height: auto;
-    text-align: right;
+    text-align: center;
+    border: 10px;
+    box-shadow: 20px;
+}
+
+#tech h3 {
+    color: #0673C0;
+    text-align: left;
+    padding: 10px;
+    text-align: center;
+}
+
+#liCore {
+    color: #0673C0;
+    text-align: center;
+    font-size: 15px;
+    list-style: none
+}
+
+#key-strengths-and-skills {
+    /*padding: 20px;
+    border-style: solid;
+    border-color: #0673C0;
+    border-radius: 10%;
+    */
+    /*    margin-top: 20px;*/
+    /*    background-color: #FFFFFF;*/
+    height: auto;
+    text-align: center;
 }
 
 #key-strengths-and-skills h3 {
@@ -186,8 +237,9 @@ figcaption {
 
 #key-strengths-and-skills li {
     color: #0673C0;
-    text-align: left;
+    text-align: center;
     font-size: 15px;
+    list-style: none
 }
 
 #work-history {
@@ -196,8 +248,8 @@ figcaption {
     border: none;
     color: #0673C0;
     text-align: center;
-/*    display: inline;*/
-/*
+    /*    display: inline;*/
+    /*
     padding: 10px;
     padding-top: 100px;
     padding-bottom: 100px;
@@ -239,6 +291,8 @@ figcaption {
     padding-top: 10px;
     margin-top: 20px;
     height: auto;
+
+
 
 }
 
@@ -333,3 +387,28 @@ footer a:hover {
 
 }
 */
+
+/* Create two equal columns that floats next to each other */
+
+.column {
+    float: left;
+    width: 50%;
+    padding: 10px;
+    height: 500px;
+    /* Should be removed. Only for demonstration */
+    height: 500px;
+    /* Should be removed. Only for demonstration */
+/*
+    border-left: 1px solid #000;
+    border-style:inset;
+    border-left-style: outset;
+*/
+}
+
+/* Clear floats after the columns */
+
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}

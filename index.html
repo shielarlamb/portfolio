@@ -25,7 +25,7 @@
 </head>
 
 <body id="body" data-target=".navbar">
-    
+
     <nav class="navbar navbar-inverse navbar-fixed-top">
         <li id="currDate"></li>
         <div class="container">
@@ -41,9 +41,11 @@
             <div id="navbar" class="collapse navbar-collapse" aria-expanded="true" role="link">
                 <ul class="nav navbar-nav">
                     <li><a href="#home">Intro</a></li>
-                    <li><a href="#key-strengths-and-skills">Key Strengths and Skills</a></li>
-                    <li><a href="#education" id="tabEducation">Education</a></li>
+                    <li><a href="#education" id="tabEducation">Education/Certifications</a></li>
+<!--                    <li><a href="#key-strengths-and-skills">Technical Courses/ Key Strengths and Skills</a></li>-->
+            <li><a href="#tech" id="tabTech">Technical Courses/Key Strengths and Skills</a></li>
                     <li><a href="#work-history" id="tabEmployment">Work History</a></li>
+<!--                    <li><a href="#certName" id="tabcertName">Education/Certifications</a></li>-->
                     <li><a href="#projects" id="tabProject">Projects</a></li>
                     <li><a href="#training" id="tabTraining">Training</a></li>
                 </ul>
@@ -70,23 +72,38 @@
                 </div>
             </section>
 
-            <section id="key-strengths-and-skills" class="col-xs-12 col-sm-12 col-lg-4 visible-lg visible-xs visible-sm visible-md col-md-offset-4">
+            <section id="education" class="col-xs-12 col-sm-12 col-lg-12 visible-lg visible-xs visible-sm visible-md col-md-offset-0">
                 <div class="row">
-                    <div class="col">
-                        <h3>Key Strengths and Skills</h3>
+
+                    <div class="column">
+                        <h3 class="text-center">Education</h3>
+                        <div id="degrees"></div>
+
+                    </div>
+
+                    <div class="column">
+                        <h3 class="text-center">Certifications</h3>
+                        <div id="certName"></div>
                     </div>
                 </div>
             </section>
-          
-            <section id="education" class="col-xs-12 col-sm-12 col-lg-6 visible-lg visible-xs visible-sm visible-md col-md-offset-3">
+
+            <section id="tech" class="col-xs-12 col-sm-12 col-lg-12 visible-lg visible-xs visible-sm visible-md col-md-offset-0">
                 <div class="row">
 
-                    <h3 class="text-center">Education</h3>
-                    <div id="degrees"></div>
 
+                    <div class="column">
+                        <h3 id="h3Tech">Technical Courses</h3>
+                        <div id="techCourses"></div>
+                    </div>
 
-                    <h3 id="h3Tech">Technical Courses</h3>
-                    <div id="techCourses"></div>
+                    <div class="column">
+                        <h3 class="text-center">Skills and Strenghts</h3>
+                        <div id="key-strengths-and-skills"></div>
+                        <!-- class="col-xs-12 col-sm-12 col-lg-6 visible-lg visible-xs visible-sm visible-md col-md-offset-3">-->
+                        <!-- <div class="row">-->
+                    </div>
+
                 </div>
             </section>
             <!--
@@ -112,9 +129,9 @@
 -->
             <section id="projects" class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
                 <div class="row">
-               
-                        <h1 class="text-center">Projects</h1>
-              
+
+                    <h1 class="text-center">Projects</h1>
+
                 </div>
                 <!--.row-->
 

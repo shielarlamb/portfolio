@@ -2,7 +2,21 @@
     "employment": [
 
         {
-            "date": "March 16, 2018 - Present",
+            "date": "August 5, 2022 - Present",
+            "company": "PwC",
+            "address": "45 S 7th St #3400, Minneapolis, MN 5540",
+            "position": "SAP Concur Senior Associate",
+            "description": "Implement and integrate SAP Concur with other HR and finance systems such as but not limited to SAP, Workday, and ADP.",
+            "accomplishment": [
+
+                {
+                    "key": "Upcoming.."
+                }
+            ]
+
+		},
+        {
+            "date": "March 16, 2018 - August 5, 2022",
             "company": "SAP Concur Technologies Inc.",
             "address": "10700 Prairie Lakes Dr. Eden Prairie, MN, 55344",
             "position": "Consultant",
@@ -11,7 +25,7 @@
             "accomplishment": [
 
                 {
-                    "key": "SAP Catalyst 2020 and 2021."
+                    "key": "SAP Catalyst 2020 - 2022."
                 }
             ]
 
@@ -155,6 +169,9 @@
             "name": "Strong troubleshooting skills."
 		},
         {
+            "name": "Project Management"
+		},
+        {
             "name": "Apollo, Sabre and Worldspan GDS"
 		},
         {
@@ -181,7 +198,7 @@
     "education": [
         {
             "name": "Master of Business Administration with Project Management Certificate",
-            "recognition": "",
+            "recognition": "GPA 4.0/4.0",
             "school": "Saint Mary's University of Minnesota",
             "date": "2020 - In-progress"
 		},
@@ -196,6 +213,31 @@
             "recognition": "Graduated with Academic Distinction",
             "school": "Concepcion Holy Cross College",
             "date": "2002-2006"
+		}
+
+	],
+
+    "certifications": [
+        {
+            "name": "SAP Concur Implementation Partner Expense",
+            "issuer": "SAP",
+            "issuedate": "Since September 2022",
+            "expdate": "No Expiry Date"
+
+		},
+        {
+            "name": "Project Management Professional",
+            "issuer": "Project Management Institute",
+            "issuedate": "August 2022",
+             "expdate": "August 2025"
+
+		},
+        {
+            "name": "Professional Teacher",
+            "issuer": "Professional Regulation Commission",
+            "issuedate": "Since November 2006",
+             "expdate": "No Expiry Date"
+
 		}
 
 	],
