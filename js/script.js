@@ -30,7 +30,6 @@ $(() => {
                 loadAccomplishments(jobs.accomplishment, $divEmployment);
 
             });
-
         };
 
         function loadDates() {
