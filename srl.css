@@ -438,7 +438,7 @@ footer a:hover {
         border-bottom-right-radius: 6px
     }
     .column {
-        float: left;
+        float: center;
         width: 100%;
         padding: 20px;
         /* Should be removed. Only for demonstration */
