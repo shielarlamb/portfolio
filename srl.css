@@ -436,27 +436,18 @@ footer a:hover {
         padding-bottom: 100px;
         border-bottom-left-radius: 6px;
         border-bottom-right-radius: 6px
-            
     }
     .column {
-    float: left;
-    width: 100%;
-    padding: 20px;
-    /* Should be removed. Only for demonstration */
-    height: auto;
-    margin: 20px;
-    /* Should be removed. Only for demonstration */
-    /*
+        float: left;
+        width: 100%;
+        padding: 20px;
+        /* Should be removed. Only for demonstration */
+        margin: 10px;
+        /* Should be removed. Only for demonstration */
+        /*
     border-left: 1px solid #000;
     border-style:inset;
     border-left-style: outset;
 */
-}
-    #key-strengths-and-skills li {
-    color: #0673C0;
-    text-align: center;
-    font-size: 15px;
-    list-style: none;
-    margin-bottom: 50px;
-}
+    }
 }
