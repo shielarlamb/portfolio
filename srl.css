@@ -128,7 +128,7 @@ figcaption .text-center {
 #section1 {
     color: #0673C0;
     text-align: left;
-    padding-bottom: 25px;
+    padding-bottom: 5px;
 }
 
 #education {
@@ -251,7 +251,7 @@ figcaption .text-center {
 
 #work-history {
     padding-top: 10px;
-    margin-top: 20px;
+    margin-top: auto;
     border: none;
     color: #0673C0;
     text-align: center;
@@ -259,7 +259,6 @@ figcaption .text-center {
     padding: 10px;
     padding-top: auto;
     padding-bottom: auto;
-
     text-align: justify;
     height: auto;
 }
@@ -398,11 +397,11 @@ footer a:hover {
 .column {
     float: left;
     width: 50%;
-    padding: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
     /* Should be removed. Only for demonstration */
-    height: 500px;
-    margin-bottom: 50px;
-    /* Should be removed. Only for demonstration */
+    height: auto;
+        /* Should be removed. Only for demonstration */
     /*
     border-left: 1px solid #000;
     border-style:inset;
@@ -440,14 +439,26 @@ footer a:hover {
     .column {
         float: center;
         width: 100%;
-        padding: 20px;
-        /* Should be removed. Only for demonstration */
-        margin: 10px;
-        /* Should be removed. Only for demonstration */
+        padding-bottom: 10px;
+              /* Should be removed. Only for demonstration */
+            /* Should be removed. Only for demonstration */
         /*
     border-left: 1px solid #000;
     border-style:inset;
     border-left-style: outset;
 */
     }
+    #work-history {
+    padding-top: 20px;
+    margin-top: 20px;
+    border: none;
+    color: #0673C0;
+    text-align: center;
+    /*    display: inline;*/
+    padding: 10px;
+    padding-top: auto;
+    padding-bottom: auto;
+    text-align: justify;
+    height: auto;
+}
 }
