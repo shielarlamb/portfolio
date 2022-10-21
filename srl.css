@@ -15,6 +15,18 @@ body {
     position: relative;
 }
 
+@media only screen and (max-width: 620px) {
+    /* For mobile phones: */
+    .main,
+        {
+        width: 100%;
+        background-color: white;
+        padding-bottom: 100px;
+        border-bottom-left-radius: 6px;
+        border-bottom-right-radius: 6px
+    }
+}
+
 .navbar-light .navbar .navbar-inverse .navbar-fixed-top {
     color: #000000;
 }
@@ -135,7 +147,9 @@ figcaption .text-center {
     color: #0673C0;
     align-content: center;
     height: auto;
-    box-shadow: 10px;
+    margin-bottom: auto;
+    height: auto;
+
 }
 
 #education p {
@@ -163,8 +177,8 @@ figcaption .text-center {
     color: #0673C0;
     align-content: center;
     height: auto;
-  
- 
+
+
 }
 
 #certName p {
@@ -185,7 +199,7 @@ figcaption .text-center {
     list-style-type: none;
     text-align: center;
     width: auto;
-    
+
 }
 
 #line {
@@ -253,11 +267,10 @@ figcaption .text-center {
     color: #0673C0;
     text-align: center;
     /*    display: inline;*/
-    /*
     padding: 10px;
     padding-top: 100px;
     padding-bottom: 100px;
-*/
+
     text-align: justify;
     height: auto;
 }
@@ -276,6 +289,7 @@ figcaption .text-center {
     font-style: italic;
     margin-right: 40px;
     padding: 5px;
+    height: auto;
 }
 
 #projects {
@@ -398,10 +412,10 @@ footer a:hover {
     float: left;
     width: 50%;
     padding: 10px;
-      /* Should be removed. Only for demonstration */
+    /* Should be removed. Only for demonstration */
     height: 500px;
     /* Should be removed. Only for demonstration */
-/*
+    /*
     border-left: 1px solid #000;
     border-style:inset;
     border-left-style: outset;
@@ -409,10 +423,11 @@ footer a:hover {
 }
 
 .txt-center {
- border: 1px solid;
-  padding: 10px;
-  box-shadow: 5px 10px #888888;    
-text-align: center;
+    border: 1px solid;
+    padding: 10px;
+    box-shadow: 5px 10px #888888;
+    text-align: center;
+    margin-bottom: 20px;
 }
 
 /* Clear floats after the columns */
