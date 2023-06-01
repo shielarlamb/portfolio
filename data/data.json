@@ -197,10 +197,16 @@
 
     "education": [
         {
-            "name": "Master of Business Administration with Project Management Certificate",
-            "recognition": "GPA 4.0/4.0",
+            "name": "Master of Business Administration",
+            "recognition": "Graduated with 4.0/4.0 GPA",
             "school": "Saint Mary's University of Minnesota",
-            "date": "2020 - In-progress"
+            "date": "2020 - 2023"
+		},
+        {
+            "name": "Project Management Graduate Certificate",
+            "recognition": "Graduated with 4.0/4.0 GPA",
+            "school": "Saint Mary's University of Minnesota",
+            "date": "2020 - 2022"
 		},
         {
             "name": "A.A.S in .Net Programming",
@@ -229,14 +235,14 @@
             "name": "Project Management Professional",
             "issuer": "Project Management Institute",
             "issuedate": "August 2022",
-             "expdate": "August 2025"
+            "expdate": "August 2025"
 
 		},
         {
             "name": "Professional Teacher",
             "issuer": "Professional Regulation Commission",
             "issuedate": "Since November 2006",
-             "expdate": "No Expiry Date"
+            "expdate": "No Expiry Date"
 
 		}
 
