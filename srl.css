@@ -10,7 +10,7 @@ body {
     /* Set margin bottom allow for footer height */
     margin-bottom: 50px;
     position: relative;
-    background-color: #ffffff;
+    background-color: #e0dfdf;
     /*background-image: url(images/background.jpg); */
     position: relative;
 }
@@ -41,7 +41,7 @@ body {
 }
 
 main {
-    background-color: white;
+    background-color: rgb(255, 255, 255);
     padding-bottom: 25px;
     border-bottom-left-radius: 6px;
     border-bottom-right-radius: 6px;
@@ -122,7 +122,7 @@ figcaption .text-center {
     background-repeat: no-repeat;
     background-size: cover;
     background-color: #000000;
-}
+    }
 
 .jumbotron a:link {
     text-decoration: none;
@@ -324,13 +324,14 @@ figcaption .text-center {
     color: #000000;
     text-align: left;
     font-size: 15px;
+    list-style: circle;
 
 }
 
 #key-accomp {
     text-align: left;
-    list-style: disc;
-    padding: 20px;
+    list-style: circle;
+   
 }
 
 .circle {

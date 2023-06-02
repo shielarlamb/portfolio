@@ -17,14 +17,17 @@
 		},
         {
             "date": "March 16, 2018 - August 5, 2022",
-            "company": "SAP Concur Technologies Inc.",
+            "company": "SAP",
             "address": "10700 Prairie Lakes Dr. Eden Prairie, MN, 55344",
             "position": "Business Processes Consultant",
-            "description": "I lead and implement multiple Expense expansion SAP Concur projects, and I work with other project managers to help with the clients' site configuration.  I also assist customers in updating and troubleshooting their SAP Concur Expense, Request, and Invoice configuration via cases. I present and recommend designs to the company's management team, such as but not limited to vice presidents, directors, managers, and administrators based on their company's needs and SAP Concur's best practices. I also handle different service activations such as, but not limited to, SAP Concur Drive and ExpenseIt.",
+            "description": "Project manager that manages, leads, and implements multiple Expense expansion SAP Concur projects, including but not limited to a new policy, workflows, and Intelligent Audit following SAP Concur’s implementation methodology. Manage customer expectations, drive deliverables, and exercise scope control to ensure that the project completes on schedule. Effectively work with peers, other departments, and the management team. Find creative solutions and designs for complex business requirements. Advance care consultant for companies with high service demands, escalations, cases, and present monthly release notes.Advance Care Consultant assisting customers in updating and troubleshooting their SAP Concur Expense, Request, and Invoice configuration, including but not limited to Company Billed Statement, Expense Pay, Intelligence Reporting, and documenting the details in Salesforce. Worked effectively with C-Level sponsors, internal and client project teams, and international and multi-cultural clients. Provide consultation to customers guiding them through decisions ensuring their SAP Concur platform is running efficiently and following SAP Concur’s best practices. Implement different service activations such as, but not limited to, SAP Concur Drive and ExpenseIt. Mentored Travel Project managers to expand their knowledge and skills with the SAP Concur Expense product to implement Expense expansion projects and work on Service Administration and Expense Solutions cases. Use Salesforce to document calls and cases and Office365, Confluence, Okta, MS Teams, Zoom, and JIRA for research and perform daily duties.",
 
             "accomplishment": [
 
                 {
+                    "key": "Dubbed as the utility player in the team due to my wide breadth of knowledge on different products such as Travel, Request, Invoice, and Expense and my impeccable work as a service administrator and project manager."
+                },
+                { 
                     "key": "SAP Catalyst 2020 - 2022."
                 }
             ]

@@ -68,7 +68,7 @@ $(() => {
         function loadKeyAccomplishments(accomplishment, $article) {
 
 
-            $article.append(`<ul id=key-accomp"><li style ="text-align: left; list-style: disc; padding-right: 70px;
+            $article.append(`<ul id=key-accomp"><li style ="text-align: left; list-style: circle; padding-right: 70px;
 	margin-left: 30px; line-height: normal;">${accomplishment.key}</li></ul>`);
 
         };
