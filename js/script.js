@@ -17,6 +17,7 @@ $(() => {
 
 
 
+
         function loadEmploymentData() {
 
             $("#displayButtonEmployment").show();
@@ -25,8 +26,9 @@ $(() => {
             $("#employment").append($divEmployment);
             $divEmployment.hide();
             data.employment.forEach((jobs) => {
-                $divEmployment.append(`<ul><li style="padding-top: 20px;"><strong>${jobs.position}</strong></li><li>${jobs.company}</li><li>${jobs.address}</li><li>${jobs.date}</p><p>${jobs.description}</p><p id="accomp"><strong>Key Accomplishment/s: </ul>`);
-
+                $divEmployment.append(`<ul><li style="padding-top: 20px;"><strong>${jobs.position}</strong></li><li>${jobs.company}</li><li>${jobs.address}</li><li>${jobs.date}</p><h4 id="roles"><strong>Roles and Responsibilities:</h4></ul>`);
+                loadJobDescription(jobs.description, $divEmployment);
+                $divEmployment.append(`<ul><p id="accomp"><strong>Key Accomplishment/s: </ul>`);
                 loadAccomplishments(jobs.accomplishment, $divEmployment);
 
             });
@@ -52,7 +54,22 @@ $(() => {
             });
         };
 
+        function loadJobDescription(roleArray, $article) {
 
+            roleArray.forEach((role) => {
+
+                loadJobRoles(role, $article);
+                console.log(roleArray);
+
+            });
+        };
+
+        function loadJobRoles(description, $article) {
+
+            $article.append(`<ul id=roles"><li style ="text-align: left; list-style: circle; padding-right: 70px;
+	margin-left: 30px; line-height: normal;">${description.role}</li></ul>`);
+
+        };
 
         function loadAccomplishments(accompArray, $article) {
 
@@ -82,7 +99,7 @@ $(() => {
             });
         };
 
-               function loadCertData() {
+        function loadCertData() {
 
 
             data.certifications.forEach((certifications) => {
@@ -90,7 +107,7 @@ $(() => {
 
             });
         };
-        
+
         function loadCoreClasses() {
 
             data.core.forEach((core) => {

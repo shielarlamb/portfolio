@@ -1,46 +1,86 @@
 {
     "employment": [
-
         {
             "date": "August 5, 2022 - Present",
             "company": "PwC",
             "address": "45 S 7th St #3400, Minneapolis, MN 5540",
             "position": "SAP Concur Senior Associate",
-            "description": "Implement and integrate SAP Concur with other HR and finance systems such as but not limited to SAP, Workday, and ADP.",
+            "description": [
+                {
+                    "role": "Implement and integrate SAP Concur with other HR and finance systems such as but not limited to SAP, Workday, and ADP."
+                }
+            ],
             "accomplishment": [
-
                 {
                     "key": "Upcoming.."
                 }
             ]
-
-		},
+        },
         {
             "date": "March 16, 2018 - August 5, 2022",
             "company": "SAP",
             "address": "10700 Prairie Lakes Dr. Eden Prairie, MN, 55344",
             "position": "Business Processes Consultant",
-            "description": "Project manager that manages, leads, and implements multiple Expense expansion SAP Concur projects, including but not limited to a new policy, workflows, and Intelligent Audit following SAP Concur’s implementation methodology. Manage customer expectations, drive deliverables, and exercise scope control to ensure that the project completes on schedule. Effectively work with peers, other departments, and the management team. Find creative solutions and designs for complex business requirements. Advance care consultant for companies with high service demands, escalations, cases, and present monthly release notes.Advance Care Consultant assisting customers in updating and troubleshooting their SAP Concur Expense, Request, and Invoice configuration, including but not limited to Company Billed Statement, Expense Pay, Intelligence Reporting, and documenting the details in Salesforce. Worked effectively with C-Level sponsors, internal and client project teams, and international and multi-cultural clients. Provide consultation to customers guiding them through decisions ensuring their SAP Concur platform is running efficiently and following SAP Concur’s best practices. Implement different service activations such as, but not limited to, SAP Concur Drive and ExpenseIt. Mentored Travel Project managers to expand their knowledge and skills with the SAP Concur Expense product to implement Expense expansion projects and work on Service Administration and Expense Solutions cases. Use Salesforce to document calls and cases and Office365, Confluence, Okta, MS Teams, Zoom, and JIRA for research and perform daily duties.",
-
+            "description": [
+                {
+                    "role": "Project manager that managed, leads, and implemented multiple Expense expansion SAP Concur projects, including but not limited to a new policy, workflows, and Intelligent Audit following SAP Concur’s implementation methodology."
+                },
+                {
+                    "role": "Managed customer expectations, drive deliverables, and exercise scope control to ensure that the project completes on schedule."
+                },
+                {
+                    "role": "Effectively worked with peers, other departments, and the management team."
+                },
+                {
+                    "role": "Find creative solutions and designs for complex business requirements."
+                },
+                {
+                    "role": "Advance care consultant for companies with high service demands, escalations, cases, and present monthly release notes."
+                },
+                {
+                    "role": "Advance Care Consultant assisted customers in updating and troubleshooting their SAP Concur Expense, Request, and Invoice configuration, including but not limited to Company Billed Statement, Expense Pay, Intelligence Reporting, and documenting the details in Salesforce."
+                },
+                {
+                    "role": "Worked effectively with C-Level sponsors, internal and client project teams, and international and multi-cultural clients."
+                },
+                {
+                    "role": "Provided consultation to customers guiding them through decisions ensuring their SAP Concur platform is running efficiently and following SAP Concur’s best practices."
+                },
+                {
+                    "role": "Implemented different service activations such as, but not limited to, SAP Concur Drive and ExpenseIt."
+                }        
+            ],
             "accomplishment": [
-
                 {
                     "key": "Dubbed as the utility player in the team due to my wide breadth of knowledge on different products such as Travel, Request, Invoice, and Expense and my impeccable work as a service administrator and project manager."
                 },
-                { 
+                {
                     "key": "SAP Catalyst 2020 - 2022."
                 }
             ]
-
-		},
+        },
         {
             "date": "June 16, 2014 - March 15, 2018",
             "company": "SAP Concur Technologies Inc.",
             "address": "10700 Prairie Lakes Dr. Eden Prairie, MN, 55344",
             "position": "Client Support Analyst I – Government Americas",
-            "description": "I worked on submitted cases submitted by the Government Edition customers regarding configuration requests, travel issues, Concur Government Edition software issues, creating and submitting authorizations and vouchers, as well as answer Cognos queries. I walked customers through using Concur Government Edition as well as documenting the steps that we took for future references. I also took calls and chat sessions from authorized contacts as needed. We used Salesforce to document our calls and cases. I was the mobile lead where I take most of the mobile cases submitted by the clients, as well as one of the curators for our internal knowledge base. I helped my co-tier-2 and tier-1 for Travel Management Company (TMC). fee questions and configuration inquiries. I also created CRMC from JIRA to submit escalations to R&D.",
-
-
+            "description": [
+                {
+                    "role": "Worked on Salesforce cases submitted by the Government Edition customers regarding configuration requests, travel issues, Concur Government Edition software issues, creating and submitting authorizations and vouchers, and answered Cognos queries."
+                },
+                {
+                    "role": "Walked customers through using Concur Government Edition as well as documenting the steps taken for future references. Also took calls and chat sessions from authorized contacts as needed."
+                },
+                {
+                    "role": "ConcurGov mobile lead assigned to mobile cases submitted by the customers."
+                },
+                {
+                    "role": "Created CRMC from JIRA to submit escalations to R&D."
+                },
+                {
+                    "role": "Used Salesforce to document our calls and cases."
+                }
+            ],
             "accomplishment": [
                 {
                     "key": "I applied for the Client Support Representative position, but was hired as a Client Support Analyst due to my exceptional experience and skills."
@@ -55,6 +95,9 @@
                     "key": "Due to my initiative in learning GDS, I was selected to be one of the personnel in charge of the “Request for Information” box, answering inquiries from tier-1 and tier-2 regarding TMC fees and configuration questions."
                 },
                 {
+                    "key": "Received clearance for G.S.A. and Customs and Border Protection agencies."
+                },
+                {
                     "key": "I mentored new tier two members."
                 },
                 {
@@ -64,18 +107,23 @@
                     "key": "I was nominated as SAP Catalyst 2018."
                 }
             ]
-
-		},
-
+        },
         {
             "date": "September 5, 2012 – March 29, 2014",
             "company": "Stream Global Services ",
             "address": "Clark Special Economic Zone, Pampanga, Philippines",
             "position": "Technical Support Professional I – Clear Internet Service",
-            "description": "I handled customers’ inquiries, complaints, billing questions, and payment extension/service requests. Calm angry callers, locate resources for problem resolution, and design best-option solutions for connectivity issues, speed issues, and devices issues. We used Salesforce to document our calls.",
-
-
-
+            "description": [
+                {
+                    "role": "Supported customers' inquiries, complaints, billing questions, and payment extension/service requests."
+                },
+                {
+                    "role": "Calm upset callers, locate resources for problem resolution, and design best-option solutions for connectivity issues, speed issues, and device issues."
+                },
+                {
+                    "role": "Used Salesforce to document calls and cases."
+                }
+            ],
             "accomplishment": [
                 {
                     "key": "I ranked 3rd in the 3rd Quarter of 2013 (out of 80 Technical Support Professionals). The ranking was based on Customer Satisfaction Survey, Average Handling Time, and First Call Resolution."
@@ -84,341 +132,347 @@
                     "key": "Commended by the client for having an outstanding call during live call calibration."
                 }
             ]
-
-		},
+        },
         {
             "date": "November 16, 2009 – May 31, 2012 ",
             "company": "Sutherland Global Services ",
             "address": "Clark Special Economic Zone, Pampanga, Philippines",
             "position": "Technical Support, Technical Lead and Sales Rep for various accounts",
-            "description": ["I handled incoming calls from customers, responding to inquiries, resolving computer, devices, network, and printer connection problems. As Microsoft XBOX Technical Lead, I have audited calls to ensure quality is met at all times as well as coached agents to enhance their technical/troubleshooting skills and customer service skills. I also took incoming sales and customer service calls for FTD and sales call for United Online. We use CRM to document our calls and cases."],
-
-
+            "description": [
+                
+                {
+                    "role": "Answered incoming calls from customers, responded to inquiries, resolving computer, devices, network, and printer connection problems."
+                },
+                {
+                    "role": "Audited call center agents MS XBOX calls to ensure call quality were met at all times and provided constructive feedback to agents to enhance their technical, troubleshooting skills and customer service skills."
+                },
+                {
+                    "role": "Answered incoming sales and customer service calls for FTD and sales call for United Online."
+                },
+                {
+                    "role": "Used a CRM system to document our calls."
+                }
+            ],
             "accomplishment": [
                 {
                     "key": "I was the go-to lead person for new representatives, particularly with challenging issues."
                 },
                 {
                     "key": "I was promoted to MS Xbox Technical Lead after four months of being on the floor as a Technical Support Representative."
+                },
+                {
+                    "key": "Received a perfect score from Quality Analyst (Q.A.) evaluation on multiple occasions."
                 }
             ]
-
-
-		},
+        },
         {
             "date": "February 9, 2009 – August 07, 2009",
             "company": "Sutherland Global Services ",
             "address": "Clark Special Economic Zone, Pampanga, Philippines",
             "position": "Technical Support Representative for McAfee",
-            "description": "I handled incoming technical calls from customers, responding to viruses issues. I provided assistance on how to use and configure Mcafee to make sure that their computers are protected. We use CRM to document our calls.",
+            "description": [
 
-
+                {
+                    "role":"Answered incoming technical calls from McAfee customers, responding to virus issues. "
+                },
+                {
+                    "role":"Walked customers through how to use and configure MacAfee to make sure that their computers were protected."
+                },
+                {
+                    "role":"Used a CRM system to document our calls."
+                }    
+            ],
             "accomplishment": [
                 {
                     "key": "I received perfect scores from the QA evaluation on multiple occasions."
                 }
             ]
-
-		},
+        },
         {
             "date": "January 21, 2008 – November 13, 2008",
             "company": "Sutherland Global Services ",
             "address": "Clark Special Economic Zone, Pampanga, Philippines",
             "position": "Tier 2 – Senior Agent for Microsoft Zune",
-            "description": "I provided technical support to customers with computers, software, windows, and devices issues. I handled consult and escalation calls from Tier 1 reps with a more challenging computer, software, and device problems.  We document our calls and cases using CRM.",
-
-
+            "description": [
+                {
+                    "role": "Answered transferred technical calls from level 1 agents to assist customers’ escalated hardware and software issues."
+                },
+                {
+                    "role": "The go-to person for new representatives, particularly with challenging issues."
+                },
+                {
+                    "role": "Used a CRM system to document our calls."
+                }
+            ],
             "accomplishment": [
                 {
                     "key": "I was promoted to Tier-2 (Level 2) after two months of handling Tier-1 (Level 1) calls."
                 }
             ]
-		},
+        },
         {
             "date": "June 14, 2006 - December 21, 2007",
             "company": "Cyber City Teleservices Ltd.",
             "address": "Clark Special Economic Zone, Pampanga, Philippines",
             "position": "Call Center Agent for Mcleodusa Telecommunication",
-            "description": "I handled incoming calls from customers with billing issues and account issues. I provided basic telephone troubleshooting and submit a trouble ticket for technician dispatch.",
-
-
+            "description": [
+                {
+                    "role": "I handled incoming calls from the customer with billing issues and account issues."
+                },
+                {
+                    "role": "I provided basic telephone troubleshooting and submit a trouble ticket for technician dispatch."
+                }
+            ],
             "accomplishment": [
                 {
                     "key": "I received multiple Excellent Performance certificates for an outstanding QA evaluation."
                 }
             ]
-
-		}
-
-	],
-
+        }
+    ],
     "skills": [
         {
             "name": "Self-starter"
-		},
+        },
         {
             "name": "Can-do attitude"
-		},
+        },
         {
             "name": "Strong planning and organizational skills."
-		},
+        },
         {
             "name": "Strive for continued excellence."
-		},
+        },
         {
             "name": "Strong computer skills."
-		},
+        },
         {
             "name": "Strong troubleshooting skills."
-		},
+        },
         {
             "name": "Project Management"
-		},
+        },
         {
             "name": "Apollo, Sabre and Worldspan GDS"
-		},
+        },
         {
             "name": "Microsoft Windows and Office"
-		},
+        },
         {
             "name": "HTML5 and CSS"
-		},
+        },
         {
             "name": "C# Language"
-		},
+        },
         {
             "name": "SQL Server/Transact-SQL and ERD Plus"
-		},
+        },
         {
             "name": "JavaScript (JQUERY/JSON)"
-		},
+        },
         {
             "name": "Client/Server Computing"
-		}
-
-	],
-
+        }
+    ],
     "education": [
         {
             "name": "Master of Business Administration",
             "recognition": "Graduated with 4.0/4.0 GPA",
             "school": "Saint Mary's University of Minnesota",
             "date": "2020 - 2023"
-		},
+        },
         {
             "name": "Project Management Graduate Certificate",
             "recognition": "Graduated with 4.0/4.0 GPA",
             "school": "Saint Mary's University of Minnesota",
             "date": "2020 - 2022"
-		},
+        },
         {
             "name": "A.A.S in .Net Programming",
             "recognition": "Graduated with High Distinction - GPA 4.0/4.0",
             "school": "Hennepin Technical College",
             "date": "2016-2019"
-		},
+        },
         {
             "name": "Bachelors in Elementary Education ",
             "recognition": "Graduated with Academic Distinction",
             "school": "Concepcion Holy Cross College",
             "date": "2002-2006"
-		}
-
-	],
-
+        }
+    ],
     "certifications": [
         {
             "name": "SAP Concur Implementation Partner Expense",
             "issuer": "SAP",
             "issuedate": "Since September 2022",
             "expdate": "No Expiry Date"
-
-		},
+        },
         {
             "name": "Project Management Professional",
             "issuer": "Project Management Institute",
             "issuedate": "August 2022",
             "expdate": "August 2025"
-
-		},
+        },
         {
             "name": "Professional Teacher",
             "issuer": "Professional Regulation Commission",
             "issuedate": "Since November 2006",
             "expdate": "No Expiry Date"
-
-		}
-
-	],
-
+        }
+    ],
     "core": [
         {
             "class": "HTML & CSS"
-		},
-
+        },
         {
             "class": "Fundamentals of Programming - Python"
-
-		},
+        },
         {
             "class": ".NET Programming I"
-
-		},
+        },
         {
             "class": "Database Design & SQL"
-
-		},
+        },
         {
             "class": "JavaScript"
-		},
+        },
         {
             "class": "SQL Server-TransactSQL"
-
-		},
+        },
         {
             "class": ".NET Programming II"
-
-		},
+        },
         {
             "class": "Client/Server Computing"
-
-		},
+        },
         {
             "class": ".NET Mobile Development"
-
-		},
+        },
         {
             "class": "ASP.Net"
-
-		},
+        },
         {
             "class": "System Analysis"
-
-		},
+        },
         {
             "class": "Project Management"
-
-		}
-
-	],
+        }
+    ],
     "training": [
         {
             "name": "Emotional Intelligence P2: How to Maximize Your Business Potential",
             "school": "SAP Success Map Learning",
             "date": "February 2, 2018"
-		},
+        },
         {
             "name": "Introduction to Project Management",
             "school": "SAP Success Map Learning",
             "date": "February 2, 2018"
-		},
+        },
         {
             "name": "Emotional Intelligence: How to Maximize Your Business Potential",
             "school": "SAP Success Map Learning",
             "date": "July 18, 2017"
-		},
+        },
         {
             "name": "Mastering the Elevator Pitch for Greater Impact in Your Daily Work",
             "school": "SAP Success Map Learning",
             "date": "June 22, 2017"
-		},
+        },
         {
             "name": "Present Complex Information",
             "school": "SAP Success Map Learning",
             "date": "June 22, 2017"
-		},
+        },
         {
             "name": "How to Write Effective Business Emails to Get Results",
             "school": "SAP Success Map Learning",
             "date": "June 21, 2017"
-		},
+        },
         {
             "name": "The Secrets to Leading with Assertiveness",
             "school": "SAP Success Map Learning",
             "date": "June 20, 2017"
-		},
+        },
         {
             "name": "Winning Strategies for Expanding Your Personal Network",
             "school": "SAP Success Map Learning",
             "date": "June 16, 2017"
-		},
+        },
         {
             "name": "Presenting with Impact",
             "school": "SAP Success Map Learning",
             "date": "June 15, 2017"
-		},
+        },
         {
             "name": "Executive Presence Overview",
             "school": "SAP Success Map Learning",
             "date": "June 13, 2017"
-		},
+        },
         {
             "name": "Cloud MindsetLeading Edge Technologies",
             "school": "SAP Success Map Learning",
             "date": "June 7, 2017"
-		},
+        },
         {
             "name": "Mastering Storytelling to Inspire Action in Business Opportunities",
             "school": "SAP Success Map Learning",
             "date": "June 5, 2017"
-		},
+        },
         {
             "name": "Caliper Assessment & Coaching Process",
             "school": "SAP Success Map Learning",
             "date": "August 2016"
-		},
+        },
         {
             "name": "MBTI: Communication and Leadership",
             "school": "SAP Success Map Learning",
             "date": "July 2016"
-		},
+        },
         {
             "name": "MBTI: Stress and Conflict",
             "school": "SAP Success Map Learning",
             "date": "July 2016"
-		},
+        },
         {
             "name": "Know Yourself:Introduction to MBTI",
             "school": "SAP Success Map Learning",
             "date": "June 2016"
-		},
-
+        },
         {
             "name": "Apollo and Worldspan GDS Training",
             "school": "Travelport.com",
             "date": "2015"
-		},
+        },
         {
             "name": "Developing Inclusion",
             "school": "Concur University",
             "date": "September 22, 2015"
-		},
+        },
         {
             "name": "Developing Generational Engagement",
             "school": "Concur University",
             "date": "September 16, 2015"
-		},
+        },
         {
             "name": "Let’s Talk Change - Learning Agility: Performance and Reflection",
             "school": "Concur University",
             "date": "September 9, 2015"
-		},
+        },
         {
             "name": "NA: Interpreting PNR History",
             "school": "Travelport.com",
             "date": "August 25, 2015"
-		},
-
+        },
         {
             "name": "Let's Talk Change - Learning Agility: Innovation and Risk",
             "school": "Concur University",
             "date": "August 13, 2015"
-		},
+        },
         {
             "name": "First Time Manager: Understanding a Manager's Role",
             "school": "Concur University",
             "date": "August 29, 2014"
-		}
-
-	]
+        }
+    ]
 }

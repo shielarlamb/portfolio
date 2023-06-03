@@ -287,7 +287,14 @@ figcaption .text-center {
 #work-history ul p {
     text-align: justify;
     font-style: italic;
-    margin-right: 40px;
+    margin-right: auto;
+    padding: 5px;
+    height: auto;
+}
+#work-history ul h4 {
+    text-align: justify;
+    font-weight: bold;
+    margin-right: auto;
     padding: 5px;
     height: auto;
 }
