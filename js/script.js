@@ -26,9 +26,9 @@ $(() => {
             $("#employment").append($divEmployment);
             $divEmployment.hide();
             data.employment.forEach((jobs) => {
-                $divEmployment.append(`<ul><li style="padding-top: 20px;"><strong>${jobs.position}</strong></li><li>${jobs.company}</li><li>${jobs.address}</li><li>${jobs.date}</p><h4 id="roles"><strong>Roles and Responsibilities:</h4></ul>`);
+                $divEmployment.append(`<ul><li style="padding-top: 20px;"><strong>${jobs.position}</strong></li><li>${jobs.company}</li><li>${jobs.address}</li><li>${jobs.date}</li><h4 id="roles"><strong>Roles and Responsibilities:</h4></ul>`);
                 loadJobDescription(jobs.description, $divEmployment);
-                $divEmployment.append(`<ul><p id="accomp"><strong>Key Accomplishment/s: </ul>`);
+                $divEmployment.append(`<ul><p id="accomp"><strong>Key Accomplishment/s:</ul>`);
                 loadAccomplishments(jobs.accomplishment, $divEmployment);
 
             });
