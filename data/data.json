@@ -360,6 +360,31 @@
     ],
     "training": [
         {
+            "name": "Developing with SAP Integration Suite",
+            "school": "SAP Learning Learning Hub",
+            "date": "August 2023"
+        },
+        {
+            "name": "Discovering SAP Business Technology Platform",
+            "school": "SAP Learning Learning Hub",
+            "date": "August 2023"
+        },
+        {
+            "name": "Concur Professional Expense Configuration",
+            "school": "SAP Concur",
+            "date": "2019"
+        },
+        {
+            "name": "Concur Professional Expense Configuration",
+            "school": "SAP Concur",
+            "date": "March 2018"
+        },
+        {
+            "name": "Emotional Intelligence P2: How to Maximize Your Business Potential",
+            "school": "SAP Success Map Learning",
+            "date": "February 2, 2018"
+        },
+        {
             "name": "Emotional Intelligence P2: How to Maximize Your Business Potential",
             "school": "SAP Success Map Learning",
             "date": "February 2, 2018"
