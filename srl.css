@@ -17,7 +17,7 @@ body {
 
 .navbar-light .navbar .navbar-inverse .navbar-fixed-top {
     color: #000000;
-  }
+}
 
 .navbar-inverse {
     background-color: #000000;
@@ -45,8 +45,9 @@ main {
     padding-bottom: 25px;
     border-bottom-left-radius: 6px;
     border-bottom-right-radius: 6px;
-   
+
 }
+
 .button {
     background-color: #000000;
 }
@@ -63,6 +64,7 @@ h3 .row {
     font-size: 20px;
     padding: 10pox;
 }
+
 h3 {
     text-align: left;
     font-size: 20px;
@@ -83,7 +85,7 @@ h4 a {
     font-family: sans-serif;
     font-size: 15px;
     font-weight: 100;
-    color:#000000
+    color: #000000
 }
 
 h5 {
@@ -122,7 +124,7 @@ figcaption .text-center {
     background-repeat: no-repeat;
     background-size: cover;
     background-color: #000000;
-    }
+}
 
 .jumbotron a:link {
     text-decoration: none;
@@ -291,6 +293,7 @@ figcaption .text-center {
     padding: 5px;
     height: auto;
 }
+
 #work-history ul h4 {
     text-align: justify;
     font-weight: bold;
@@ -338,7 +341,7 @@ figcaption .text-center {
 #key-accomp {
     text-align: left;
     list-style: circle;
-   
+
 }
 
 .circle {
@@ -359,11 +362,13 @@ footer {
     text-align: center;
     padding-bottom: 55px;
 }
+
 .btn-info {
-    background-color: #000000; 
+    background-color: #000000;
     border-color: #000000;
     border-radius: 120px;
-    color: #ffffff;}
+    color: #ffffff;
+}
 
 a {
     color: #000000;
@@ -424,7 +429,7 @@ footer a:hover {
     padding-right: 20px;
     /* Should be removed. Only for demonstration */
     height: auto;
-        /* Should be removed. Only for demonstration */
+    /* Should be removed. Only for demonstration */
     /*
     border-left: 1px solid #000;
     border-style:inset;
@@ -450,41 +455,45 @@ footer a:hover {
 
 
 @media only screen and (max-width: 620px) {
+
     /* For mobile phones: */
-    .main,
-        {
-        width: 100%;
-        background-color: white;
-        padding-bottom: 100px;
-        border-bottom-left-radius: 6px;
-        border-bottom-right-radius: 6px
-    }
-    .column {
-        float: center;
-        width: 100%;
-        padding-bottom: 10px;
-              /* Should be removed. Only for demonstration */
-            /* Should be removed. Only for demonstration */
-        /*
+    .main
+    {
+    width: 100%;
+    background-color: white;
+    /*padding-bottom: 100px; */
+    border-bottom-left-radius: 6px;
+    border-bottom-right-radius: 6px;
+}
+
+.column {
+    float: center;
+    width: auto;
+    /* padding-bottom: 10px;*/
+    /* Should be removed. Only for demonstration */
+    /* Should be removed. Only for demonstration */
+    /*
     border-left: 1px solid #000;
     border-style:inset;
     border-left-style: outset;
 */
-    }
-    #work-history {
-    padding-top: 20px;
-    margin-top: 20px;
+}
+
+#work-history {
+    /*padding-top: 20px;
+    margin-top: 20px; */
     border: none;
     color: #000000;
     text-align: center;
     /*    display: inline;*/
-    padding: 10px;
+    /* padding: 10px;
     padding-top: auto;
-    padding-bottom: auto;
+    padding-bottom: auto;*/
     text-align: justify;
     height: auto;
 }
-    #currDate {
+
+#currDate {
     text-align: right;
     color: white;
     list-style: none;
@@ -492,7 +501,8 @@ footer a:hover {
     margin-right: 10px;
     float: right;
 }
-    #currDate {
+
+#currDate {
     text-align: right;
     color: white;
     list-style: none;
