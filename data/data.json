@@ -272,6 +272,12 @@
         },
         {
             "name": "Client/Server Computing"
+        },
+        {
+            "name": "Microsoft Power Platform"
+        },
+        {
+            "name": "SAP BTP"
         }
     ],
     "education": [
@@ -302,9 +308,21 @@
     ],
     "certifications": [
         {
+            "name": "SAP Certified Development Associate - SAP Integration Suite",
+            "issuer": "SAP",
+            "issuedate": "Since December 2023",
+            "expdate": "December 2028"
+        },
+        {
+            "name": "Microsoft Certified: Power Platform Fundamentals",
+            "issuer": "Microsoft",
+            "issuedate": "November 2026",
+            "expdate": "No Expiry Date"
+        },
+        {
             "name": "SAP Concur Implementation Partner Expense",
             "issuer": "SAP",
-            "issuedate": "Since September 2022",
+            "issuedate": "September 2022",
             "expdate": "No Expiry Date"
         },
         {
@@ -316,7 +334,7 @@
         {
             "name": "Professional Teacher",
             "issuer": "Professional Regulation Commission",
-            "issuedate": "Since November 2006",
+            "issuedate": "November 2006",
             "expdate": "No Expiry Date"
         }
     ],
