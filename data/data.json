@@ -378,6 +378,15 @@
     ],
     "training": [
         {
+            "name": "Get Started with Copilot for Microsoft",
+            "school": "Microsoft",
+            "date": "November 2023"
+        },{
+            "name": "Microsoft Power Platform Fundamentals",
+            "school": "Microsoft",
+            "date": "September 2023"
+        },
+        {
             "name": "Developing with SAP Integration Suite",
             "school": "SAP Learning Learning Hub",
             "date": "August 2023"
