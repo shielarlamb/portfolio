@@ -277,7 +277,10 @@
             "name": "Microsoft Power Platform"
         },
         {
-            "name": "SAP BTP"
+            "name": "SAP Business Technology Platform"
+        },
+        {
+            "name": "SAP Activate Project Manager"
         }
     ],
     "education": [
@@ -307,6 +310,12 @@
         }
     ],
     "certifications": [
+        {
+            "name": "SAP Certified Associate - Project Manager - SAP Activate",
+            "issuer": "SAP",
+            "issuedate": "April 2024",
+            "expdate": "April 2025"
+        },
         {
             "name": "SAP Certified Development Associate - SAP Integration Suite",
             "issuer": "SAP",
