@@ -94,7 +94,7 @@ $(() => {
 
 
             data.education.forEach((education) => {
-                $("#degrees").append(`<p><strong>${education.name}</strong></p><p class="educ-details"><strong>${education.recognition}</strong></p><p class="educ-details">${education.school}</p><p class="educ-details">${education.date}</p><br>`);
+                $("#degrees").append(`<p><strong>${education.name}</strong></p><p class="educ-details">${education.school}</p><p class="educ-details-date"><strong>${education.recognition}</strong></p><p class="educ-details-date">${education.date}</p><br>`);
 
             });
         };
@@ -103,7 +103,7 @@ $(() => {
 
 
             data.certifications.forEach((certifications) => {
-                $("#certName").append(`<p><strong>${certifications.name}</strong></p><p class="cert-details"><strong>${certifications.issuer}</strong></p><p class="cert-details"><strong>Issued on: </strong>${certifications.issuedate}</p><p class="cert-details"><strong>Expiry date: </strong>${certifications.expdate}</p><br>`);
+                $("#certName").append(`<p><strong>${certifications.name}</strong></p><p class="cert-details"><strong>${certifications.issuer}</strong></p><p class="cert-details-date"><strong>Issued on: </strong>${certifications.issuedate}</p> <p class="cert-details-date"> <strong>Expiry date: </strong>${certifications.expdate}</p><br>`);
 
             });
         };

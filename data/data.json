@@ -6,7 +6,7 @@
             "address": "45 S 7th St #3400, Minneapolis, MN 5540",
             "position": "Senior Associate",
             "description": [
-                                {
+                {
                     "role": "Lead, and manage a team of Power Platform developers, ensuring they have the necessary resources and support to succeed."
                 },
                 {
@@ -63,7 +63,7 @@
                     "key": "Obtained five professional certifications in two years."
                 },
                 {
-                    "key": "Utilized the newly gained skills to innovate automate manual processes."
+                    "key": "Utilized the newly gained skills to innovate and automate manual processes."
                 }
             ]
         },
@@ -99,7 +99,7 @@
                 },
                 {
                     "role": "Implemented different service activations such as, but not limited to, SAP Concur Drive and ExpenseIt."
-                }        
+                }
             ],
             "accomplishment": [
                 {
@@ -193,7 +193,6 @@
             "address": "Clark Special Economic Zone, Pampanga, Philippines",
             "position": "Technical Support, Technical Lead and Sales Rep for various accounts",
             "description": [
-                
                 {
                     "role": "Answered incoming calls from customers, responded to inquiries, resolving computer, devices, network, and printer connection problems."
                 },
@@ -225,16 +224,15 @@
             "address": "Clark Special Economic Zone, Pampanga, Philippines",
             "position": "Technical Support Representative for McAfee",
             "description": [
-
                 {
-                    "role":"Answered incoming technical calls from McAfee customers, responding to virus issues. "
+                    "role": "Answered incoming technical calls from McAfee customers, responding to virus issues. "
                 },
                 {
-                    "role":"Walked customers through how to use and configure MacAfee to make sure that their computers were protected."
+                    "role": "Walked customers through how to use and configure MacAfee to make sure that their computers were protected."
                 },
                 {
-                    "role":"Used a CRM system to document our calls."
-                }    
+                    "role": "Used a CRM system to document our calls."
+                }
             ],
             "accomplishment": [
                 {
@@ -307,7 +305,13 @@
             "name": "Project Management"
         },
         {
-            "name": "Apollo, Sabre and Worldspan GDS"
+            "name": "Microsoft Power Platform"
+        },
+        {
+            "name": "SAP Integration Suite"
+        },
+        {
+            "name": "SAP Activate Project Management"
         },
         {
             "name": "Microsoft Windows and Office"
@@ -316,25 +320,13 @@
             "name": "HTML5 and CSS"
         },
         {
-            "name": "C# Language"
-        },
-        {
             "name": "SQL Server/Transact-SQL and ERD Plus"
         },
         {
             "name": "JavaScript (JQUERY/JSON)"
         },
         {
-            "name": "Client/Server Computing"
-        },
-        {
-            "name": "Microsoft Power Platform"
-        },
-        {
-            "name": "SAP Business Technology Platform"
-        },
-        {
-            "name": "SAP Activate Project Manager"
+            "name": "Apollo, Sabre and Worldspan GDS"
         }
     ],
     "education": [
@@ -351,16 +343,16 @@
             "date": "2020 - 2022"
         },
         {
-            "name": "A.A.S in .Net Programming",
-            "recognition": "Graduated with High Distinction - GPA 4.0/4.0",
-            "school": "Hennepin Technical College",
-            "date": "2016-2019"
-        },
-        {
             "name": "Bachelors in Elementary Education ",
             "recognition": "Graduated with Academic Distinction",
             "school": "Concepcion Holy Cross College",
             "date": "2002-2006"
+        },
+        {
+            "name": "A.A.S in .Net Programming",
+            "recognition": "Graduated with High Distinction - GPA 4.0/4.0",
+            "school": "Hennepin Technical College",
+            "date": "2016-2019"
         }
     ],
     "certifications": [
@@ -379,7 +371,7 @@
         {
             "name": "Microsoft Certified: Power Platform Fundamentals",
             "issuer": "Microsoft",
-            "issuedate": "November 2026",
+            "issuedate": "November 2023",
             "expdate": "No Expiry Date"
         },
         {
@@ -389,7 +381,7 @@
             "expdate": "No Expiry Date"
         },
         {
-            "name": "Project Management Professional",
+            "name": "Project Management Professional (PMP)",
             "issuer": "Project Management Institute",
             "issuedate": "August 2022",
             "expdate": "August 2028"
@@ -434,17 +426,25 @@
         },
         {
             "class": "System Analysis"
-        },
-        {
-            "class": "Project Management"
         }
     ],
     "training": [
         {
+            "name": "Discovering SAP Activate - Implementation Tools and Methodology",
+            "school": "SAP",
+            "date": "March 2024"
+        },
+        {
+            "name": "Discovering SAP Activate - Agile Project Delivery",
+            "school": "SAP",
+            "date": "March 2024"
+        },
+        {
             "name": "Get Started with Copilot for Microsoft",
             "school": "Microsoft",
             "date": "November 2023"
-        },{
+        },
+        {
             "name": "Microsoft Power Platform Fundamentals",
             "school": "Microsoft",
             "date": "September 2023"

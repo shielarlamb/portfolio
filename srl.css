@@ -165,7 +165,11 @@ figcaption .text-center {
     font-size: 15px;
 
 }
+#education .educ-details-date {
+    line-height: auto;
+    font-size: 13px;
 
+}
 #education h3 {
     list-style-type: none;
     text-align: center;
@@ -192,9 +196,15 @@ figcaption .text-center {
 #certName .cert-details {
     line-height: auto;
     font-size: 15px;
+    
 
 }
-
+#certName .cert-details-date {
+    line-height: auto;
+    font-size: 13px;
+    text-align: center;
+  }
+ 
 #certName h3 {
     list-style-type: none;
     text-align: center;
