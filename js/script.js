@@ -103,7 +103,7 @@ $(() => {
 
 
             data.certifications.forEach((certifications) => {
-                $("#certName").append(`<p><strong>${certifications.name}</strong></p><p class="cert-details"><strong>${certifications.issuer}</strong></p><p class="cert-details">${certifications.issuedate}</p><p class="cert-details">${certifications.expdate}</p><br>`);
+                $("#certName").append(`<p><strong>${certifications.name}</strong></p><p class="cert-details"><strong>${certifications.issuer}</strong></p><p class="cert-details"><strong>Issued on: </strong>${certifications.issuedate}</p><p class="cert-details"><strong>Expiry date: </strong>${certifications.expdate}</p><br>`);
 
             });
         };

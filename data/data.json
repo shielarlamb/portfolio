@@ -6,13 +6,64 @@
             "address": "45 S 7th St #3400, Minneapolis, MN 5540",
             "position": "SAP Concur Senior Associate",
             "description": [
+                                {
+                    "role": "Lead, and manage a team of Power Platform developers, ensuring they have the necessary resources and support to succeed."
+                },
                 {
-                    "role": "Implement and integrate SAP Concur with other HR and finance systems such as but not limited to SAP, Workday, and ADP."
+                    "role": "Foster a positive and collaborative team environment across cross-functional teams."
+                },
+                {
+                    "role": "Plan, coordinate, and oversee the end-to-end lifecycle of Power Platform projects, from initial requirements gathering to final deployment and support."
+                },
+                {
+                    "role": "Work closely with business stakeholders to understand their needs and translate them into technical specifications."
+                },
+                {
+                    "role": "Oversee the design and development of custom applications using Power Apps, workflows using Power Automate, and reports and dashboards using Power BI."
+                },
+                {
+                    "role": "Conduct detailed Concur discovery sessions with clients to understand their current processes, pain points, and business requirements related to travel and expense management."
+                },
+                {
+                    "role": "Collaborate with stakeholders to gather comprehensive information and document functional and technical requirements."
+                },
+                {
+                    "role": "Lead design sessions across cross-functional teams to create tailored Concur solutions that align with clients' business needs and objectives."
+                },
+                {
+                    "role": "Develop detailed solution designs with the team, including process flows, system configurations, and integration points."
+                },
+                {
+                    "role": "Present design proposals to clients and refine based on feedback."
+                },
+                {
+                    "role": "Oversee the configuration and customization of Concur solutions, ensuring adherence to best practices and client requirements."
+                },
+                {
+                    "role": "Work closely with implementation teams to ensure accurate and timely build of the designed solutions."
+                },
+                {
+                    "role": "Conduct unit testing and support user acceptance testing (UAT) to validate the solution's functionality and performance."
+                },
+                {
+                    "role": "Serve as a point of contact for clients throughout the project lifecycle, providing expert guidance and support."
+                },
+                {
+                    "role": "Facilitate workshops, training sessions, and change management activities to drive user adoption and maximize solution effectiveness."
+                },
+                {
+                    "role": "Monitor project progress, identify risks, and develop plans to mitigate risks."
+                },
+                {
+                    "role": "Conduct regular project status meetings and provide updates to stakeholders."
                 }
             ],
             "accomplishment": [
                 {
-                    "key": "Upcoming.."
+                    "key": "Obtained five professional certifications in two years."
+                },
+                {
+                    "key": "Utilized the newly gained skills to innovate automate manual processes."
                 }
             ]
         },
