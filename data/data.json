@@ -40,7 +40,10 @@
                     "role": "Oversee the configuration and customization of Concur solutions, ensuring adherence to best practices and client requirements."
                 },
                 {
-                    "role": "Build and configured Concur sites based on the client's business requirements."
+                    "role": "Build and configured SAP Concur sites based on the client's business requirements."
+                },
+                {
+                    "role": "Integrate S/4HANA to SAP Concur via SAP Integration with Concur Solutions (SAP ICS)."
                 },
                 {
                     "role": "Build custom intelligence reports."
