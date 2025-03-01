@@ -65,6 +65,9 @@
                 },
                 {
                     "role": "Develop and manage a cutover plan for smooth platform transitions"
+                },
+                {
+                    "role": "Utilize SAP Concur, SAP S/4 Hana, Salesforce, Office 365, MS Visio, Visual Studio Code, and JIRA"
                 }
             ],
             "accomplishment": [
@@ -125,7 +128,7 @@
                     "role": "Recognized as a utility player within the team due to extensive knowledge of Travel, Request, Invoice, and Expense products, and exceptional performance as a service administrator and project manager"
                 },
                 {
-                    "role": "Utilized Salesforce for documenting calls and cases, and employed Office365, Confluence, Okta, MS Teams, Zoom, and JIRA for research and daily tasks"
+                    "role": "Utilized SAP Concur, Salesforce Office 365, Confluence, Okta, MS Teams, Zoom, and JIRA for research and daily tasks"
                 }
             ],
             "accomplishment": [
@@ -156,14 +159,17 @@
                     "role": "ConcurGov mobile lead assigned to mobile cases submitted by the clients"
                 },
                 {
-                    "role": "Created Customer Relationship Management Conference (CRMC) from JIRA to submit escalations to R&D"
+                    "role": "Created Customer Relationship Management Conference (CRMC) from JIRA to submit escalations to R&D team"
                 },
                 {
                     "role": "Mentored new tier-2 members"
                 },
                 {
-                    "role": "Build internal knowledge base from scratch and in charge of the Request for Information (RFI) box, answered Tier-1 and Tier-2 inquiries regarding T.M.C fees and configuration questions"
+                    "role": "Built internal knowledge base from scratch and in charge of the Request for Information (RFI) box, answered Tier-1 and Tier-2 inquiries regarding T.M.C fees and configuration questions"
                 },
+                                {
+                    "role": "Utilized SAP Concur, Salesforce Office 365, Confluence, Okta, MS Teams, Zoom, and JIRA for research and daily tasks"
+                },  
                 {
                     "role": "U.S. federal government security clearance required."
                 }
@@ -317,7 +323,7 @@
             "name": "Self-starter"
         },
         {
-            "name": "Can-do attitude"
+            "name": "Can-do and positive attitude"
         },
         {
             "name": "Strong planning and organizational skills"
@@ -326,7 +332,13 @@
             "name": "Strive for continued excellence"
         },
         {
-            "name": "Strong troubleshooting skills"
+            "name": "Problem-Solver"
+        },
+        {
+            "name": "Collaborative"
+        },
+        {
+            "name": "Resourceful"
         },
         {
             "name": "MS Office 365"
@@ -342,6 +354,15 @@
         },
         {
             "name": "SAP Activate Project Management"
+        },
+        {
+            "name": "SAP Concur"
+        },
+        {
+            "name": "SAP S/4HANA"
+        },
+        {
+            "name": "Microsoft Visio"
         },
         {
             "name": "Microsoft Windows and Office"
@@ -405,10 +426,10 @@
             "expdate": "No Expiry Date"
         },
         {
-            "name": "SAP Concur Implementation Partner Expense",
+            "name": "SAP Concur Certified Implementation Partner Associate – Concur Professional Expense ",
             "issuer": "SAP",
             "issuedate": "September 2022",
-            "expdate": "No Expiry Date"
+            "expdate": "February 2026"
         },
         {
             "name": "Project Management Professional (PMP)",
