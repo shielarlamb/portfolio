@@ -10,7 +10,7 @@ body {
     /* Set margin bottom allow for footer height */
     margin-bottom: 50px;
     position: relative;
-    background-color: #e0dfdf;
+    background-color: rgb(240, 240, 240);
     /*background-image: url(images/background.jpg); */
     position: relative;
 }
@@ -56,7 +56,8 @@ main .row {
 }
 
 h2 {
-    color: #D4D300;
+    color: whitesmoke;
+    margin-top: auto;
 }
 
 h3 .row {
@@ -64,7 +65,7 @@ h3 .row {
     padding: 10pox;
 }
 h3 {
-    text-align: left;
+    /*text-align: left;*/
     font-size: 20px;
     font-weight: bold;
     padding-top: 10px;
@@ -99,11 +100,10 @@ h5 {
 h1 {
     padding-top: 25px;
 }
-
 figcaption {
-    font-family: Papyrus, Rockwell, sans-serif;
-    margin-top: 5px;
-    padding-top: 5px;
+   font-family: Papyrus, Helvetica, Arial, sans-serif, Rockwell, sans-serif;
+    margin-top: 2px;
+    padding-top: 1px;
     padding-bottom: 5px;
     text-align: center;
     font-weight: bold;
@@ -225,8 +225,8 @@ figcaption .text-center {
     /*    margin-top: 20px;*/
     /*    background-color: #FFFFFF;*/
     height: auto;
-    text-align: center;
-    border: 10px;
+  /*  text-align: center;*/
+    /*border: 10px;*/
     box-shadow: 20px;
 }
 
@@ -432,7 +432,7 @@ footer a:hover {
     width: 50%;
     padding-left: 20px;
     padding-right: 20px;
-    /* Should be removed. Only for demonstration */
+        /* Should be removed. Only for demonstration */
     height: auto;
         /* Should be removed. Only for demonstration */
     /*
@@ -441,10 +441,24 @@ footer a:hover {
     border-left-style: outset;
 */
 }
+#degrees {
+    padding-top: 10px;
+   /* background-color: rgb(240, 240, 240);
+    border-radius: 5px;
+    padding-bottom: 10px;*/
+}
 
+#key-strengths-and-skills {
+    padding-top: 10px;
+    /*background-color: rgb(240, 240, 240);
+    border-radius: 5px;
+    padding-bottom: 10px;*/
+}
 .txt-center {
-    border: 1px solid;
-    box-shadow: 5px 10px #888888;
+    border: 1px outset;
+    border-color: #888888;
+    border-radius: 5px;
+    box-shadow: 5px 5px #888888;
     text-align: center;
     margin-bottom: 20px;
 }
