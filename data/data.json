@@ -414,6 +414,17 @@
     ],
     "certifications": [
         {
+            "name": "Project Management Professional (PMP)",
+            "issuer": "Project Management Institute",
+            "issuedate": "August 2022",
+            "expdate": "August 2028"
+        },
+        {
+            "name": "Certified AI-Empowered SAFe® Scrum Master (AI-SSM)",
+            "issuer": "SAFe by Scaled Agile, Inc.",
+            "issuedate": "February 2026",
+            "expdate": "February 2027"
+        },{
             "name": "SAP Certified Associate - Project Manager - SAP Activate",
             "issuer": "SAP",
             "issuedate": "April 2024",
@@ -437,13 +448,7 @@
             "issuedate": "September 2022",
             "expdate": "February 2026"
         },
-        {
-            "name": "Project Management Professional (PMP)",
-            "issuer": "Project Management Institute",
-            "issuedate": "August 2022",
-            "expdate": "August 2028"
-        },
-        {
+                {
             "name": "Professional Teacher",
             "issuer": "Professional Regulation Commission",
             "issuedate": "November 2006",
